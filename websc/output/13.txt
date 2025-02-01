@@ -1,0 +1,178 @@
+Official website of the Department of Homeland Security
+- StudentsGo to Students PagePopular LinksStudents and the Form I-20Maintaining StatusPaying the I-901 SEVIS FeeKindergarten to Grade 12 StudentsApplying for a Visa to Travel to the United StatesTraining Opportunities in the United States
+- Go to Students Page
+- Popular Links
+- Students and the Form I-20
+- Maintaining Status
+- Paying the I-901 SEVIS Fee
+- Kindergarten to Grade 12 Students
+- Applying for a Visa to Travel to the United States
+- Training Opportunities in the United States
+- SchoolsGo to Schools PagePopular LinksWhat to Know about SEVP CertificationGetting Started with SEVP CertificationUpdates to the Form I-17Maintaining Accurate SEVIS RecordsDSOs and the Form I-20Kindergarten to Grade 12 Schools
+- Go to Schools Page
+- Popular Links
+- What to Know about SEVP Certification
+- Getting Started with SEVP Certification
+- Updates to the Form I-17
+- Maintaining Accurate SEVIS Records
+- DSOs and the Form I-20
+- Kindergarten to Grade 12 Schools
+- BlogJanuary 11, 2025DHS Blue Campaign | Combating Human Trafficking in SchoolsJanuary is National Human Trafficking Prevention Month, and the U.S.Read More >December 10, 2024Designated School Official Annual Verification PeriodRead More >December 3, 2024Open Doors Report: A Record High Number of International StudentsRead More >See All Blogs >Blog
+- January 11, 2025DHS Blue Campaign | Combating Human Trafficking in SchoolsJanuary is National Human Trafficking Prevention Month, and the U.S.Read More >December 10, 2024Designated School Official Annual Verification PeriodRead More >December 3, 2024Open Doors Report: A Record High Number of International StudentsRead More >See All Blogs >Blog
+January is National Human Trafficking Prevention Month, and the U.S. Read More >
+January is National Human Trafficking Prevention Month, and the U.S.
+- ToolsGo to Tools PagePopular LinksSchool SearchSEVIS Data Mapping ToolGuide to Studying in the StatesResource LibrarySchool Certification Life Cycle
+- Go to Tools Page
+- Popular Links
+- School Search
+- SEVIS Data Mapping Tool
+- Guide to Studying in the States
+- Resource Library
+- School Certification Life Cycle
+- Help HubsGo to Help HubsPopular LinksSEVIS Help HubSEVP Portal HelpSTEM OPT Hub
+- Go to Help Hubs
+- Popular Links
+- SEVIS Help Hub
+- SEVP Portal Help
+- STEM OPT Hub
+- Filter
+## Schools
+##
+## Breadcrumb
+1. Home
+2. Schools
+3. Maintaining Accurate SEVIS Records
+## Maintaining Accurate SEVIS Records
+As a designated school official (DSO), you are required by federal law to update and maintain student records for your F and M students in the Student and Exchange Visitor Information System (SEVIS).
+The Student and Exchange Visitor Program (SEVP) and various U.S. government partners use student data to monitor your F and M students’ (and their dependents’) legal status and to ensure national security.
+SEVP’s government and law enforcement partners use SEVIS data throughout the international student life cycle. For example:
+- The U.S. Department of State issues visas for travel to the United States, includingstudent visas.
+- U.S. Customs and Border Patrol (CBP)admitsinternational students to the United States at U.S. ports of entry.
+- U.S. Citizenship and Immigration Services (USCIS) authorizeschanges of status, training,employmentand other benefits for international students.
+## Student Record Keeping and Reporting
+Each F and M international student should have only one Active record in SEVIS. It is important to ensure the SEVIS identification (ID) number on a student’s Active record matches the ID number found on all government documents. This greatly simplifies any interaction the student may have with SEVP’s government and law enforcement partners and facilitates effective oversight of the student while in the United States. DSOs create and update students’ SEVIS records, as well as use student records to report certain events as required by law . Required updates include , but are not limited to:
+- ReissuingForms I-20, “Certificate of Eligibility for Nonimmigrant Student Status.”
+- ManagingSEVIS record transfers.
+- Requesting and monitoringstudent employment.
+At the start of each school session, DSOs must register students in SEVIS. You must register eligible F and M students in SEVIS no later than 30 days after each session start date . You can use the Mass Registration function to register multiple students at once if their registration data are the same.
+SEVIS blocks registration for initial and continuing students whose records are missing a U.S. physical address or a I-901 SEVIS Fee payment. In addition, DSOs must confirm session lengths and break lengths in SEVIS. If the session or break is more than 183 days, confirm that the dates are correct or change to the proper dates. Entering accurate session dates is important, as they affect student registration termination deadlines. For more information, visit the Registration page on the SEVIS Help Hub.
+Although F and M students normally must enroll in a full course load each term to maintain their student status, you may excuse a student from this rule under certain circumstances. You can find guidelines for reduced course loads on the Reduced Course Load page on the SEVIS Help Hub.
+You may need to shorten a student’s program if they:
+- Completed their program early.
+- Are in a master's or doctorate program, have finished all in-class course work and have requested optional practical training (OPT) while they work on their thesis or dissertation.
+If the student is in Active status in SEVIS, you can shorten the student’s program of study prior to the program end date in SEVIS.
+You may also need to extend their F-1 status for an academic reason, a medical reason or a DSO error. In these cases, you can extend the student’s program of study prior to the program end date in SEVIS. You can extend an F-1 student’s program for up to one year at a time.
+Throughout the school year, you must update student records if a student’s data or circumstances change. Visit the Update Student Records page on the SEVIS Help Hub to learn how to keep student records accurate when information changes.
+Sometimes, DSOs must cancel a student’s SEVIS record. If you know a student in Initial status will not study at your school and has not used your school’s Form I-20 to enter the United States, you can cancel the student’s SEVIS record. This ensures school compliance and keeps the student from using your school’s Form I-20 to enter the country later.
+You may need to cancel a student’s SEVIS record for other reasons . When in doubt, first access the Cancel SEVIS Record in Initial Status page ; then if needed, contact the SEVP Response Center to avoid creating hardships for your students.
+Inaccurate SEVIS information can negatively affect your F and M students’ status or eligibility for benefits.
+Depending on the timing and data type, principal designated school officials (PDSOs) and DSOs have different options to correct student SEVIS records. Visit the Corrections and Correction Requests page on the SEVIS Help Hub to learn more about your correction request options.
+Terminating a student’s SEVIS record is a critical DSO responsibility. Most often, you will do this for routine, administrative reasons such as a change of status or to authorize an early withdrawal. Sometimes there may be a circumstance beyond the DSO’s control or the DSO may make an administrative mistake. Most critical, sometimes the DSO must terminate the student’s SEVIS record because it appears that the student did not maintain their status. These violations can relate to school policy, standards or requirements; the student’s nonimmigrant status; or civil or criminal law.
+For more information and examples of when a student’s record should be terminated, visit the Terminate a Student/ Dependent page on the SEVIS Help Hub. If you are unsure about terminating a record, contact the SEVP Response Center .
+If you terminate a student’s SEVIS record, be sure to notify the student. Once you terminate a student’s SEVIS record, the student is no longer in an authorized period of stay in the United States. Any associated F-2 or M-2 dependent records are also terminated. If the student is still in the United States, they lose all employment authorization they received while in student status. An F or M student who is out of nonimmigrant status must leave the United States, while a student outside of the country cannot reenter the United States using the terminated SEVIS record.
+Alternatives to leaving the country all require action on the student’s part. If the student:
+- Believes the SEVIS termination was made in error, they should contact their DSO who can submit acorrection requestin SEVIS.
+- Failed to maintain status as required by regulation but intends to resume study as a nonimmigrant student, they may apply to USCIS for reinstatement.
+See the Reinstatement page on the SEVIS Help Hub to learn how to request a reinstatement and other options a terminated student has to regain F-1 or M-1 status. More information is also available from USCIS .
+Use the “Authorized Early Withdrawal” reason to terminate the student’s SEVIS record if you approve the student’s request for a leave of absence. Do not use this termination reason when students leave the United States for a vacation. If you terminate a student’s SEVIS record for authorized absence, be sure to add comments in the student’s record.
+When a student completes their program of study and any associated practical training, they have a grace period during which they may remain in the United States.
+F-1 students have a 60-day grace period from their program or post-completion OPT end date during which they could:
+- Apply and be accepted to a new academic program that starts within five months. This includes staying at the same school or transferring a SEVIS record to another school.
+- Apply to USCIS for achange of status.
+- Travel within the United States and prepare to leave the country.
+M-1 students have a 30-day grace period from their program or practical training end date. However, M-1 students’ time in the United States cannot exceed one year, including the grace period. During their grace period, M-1 students could:
+- Apply to USCIS for achange of status.
+- Travel within the United States and prepare to leave the country.
+As a note, M-1 students may not change to F or H status while in the United States.
+If a student in a grace period with a pending Form I-765, “Application for Employment Authorization,” for post-completion OPT leaves the United States, re-entry to the United States is always at the discretion of CBP. If a student does leave the country, they should make sure to receive authorization from their DSO before they travel. You must sign their Form I-20 within six months of the date they will seek readmission into the United States (note that this differs from the 1-year validity period for a DSO travel signature that applies to F-1 travel in all circumstances other than post-completion OPT). Visit the Travel page on ICE.gov/SEVP for additional travel instructions for F-1 and M-1 students.
+When the grace period ends, SEVIS auto-completes the student’s record. Before the record completes, be sure that your F-1 student does not want to start a new program of study at your school or another school.
+Completing a record is different from shortening a program . You may shorten a student’s program when they finish their program before the program end date in SEVIS. Students are still allowed a grace period when their program is shortened.
+For more information, visit the Complete Program page on the SEVIS Help Hub.
+## Reinstatements
+If an F or M student record is terminated because it appeared that the student failed to maintain status , they must file for reinstatement with USCIS or depart the United States immediately. The student starts the process by asking you to recommend them for reinstatement in SEVIS. You can reinstate a student in SEVIS if the student:
+- Is currently engaged in or will resume a full course of study.
+- Is able to prove eligibility for reinstatement according to F-1 or M-1 regulations.
+Visit the Reinstatement page on the SEVIS Help Hub for a detailed overview and step-by-step instructions of the reinstatement process in SEVIS.
+## Transfers
+An F or M student may transfer between SEVP-certified schools. The SEVIS transfer process is a way to electronically move SEVIS records and retain the same SEVIS ID for the student. Visit the Transfers page on the SEVIS Help Hub for more information about transferring a student’s SEVIS record to a different SEVP-certified school. Note that the transfer process for F-1 students differs from the one for M-1 students .
+Individuals who are already in the United States on a valid nonimmigrant status for a purpose other than attending school and then want to become an F-1 or M-1 student at an SEVP-certified school must submit an application with USCIS to change their nonimmigrant status . To change to student status, they must:
+- Apply to and receive acceptance from anSEVP-certified school.
+- Obtain an initialForm I-20from the SEVP-certified school. The DSO should select “Change of Status” in the Issue Reason section of the Form I-20.
+- Pay theI-901 SEVIS Fee.
+- File aForm I-539, “Application to Extend/Change Nonimmigrant Status,”with USCIS and follow USCIS filing instructions.
+DSOs must carefully monitor these applications to keep the SEVIS records in Initial status for the entire time the application is pending with USCIS. If USCIS has not approved the change of status before the program start date, defer the program start date in SEVIS.
+If the student is in a nonimmigrant status that allows for study , the student’s start date at the school and the start date in SEVIS will be different. The start date in SEVIS should reflect the date the student begins studies at the school once in F-1 or M-1 status.
+For more information, visit the Manage Initial Program and Session Dates page on the SEVIS Help Hub.
+Eligible international students can receive on-the-job-learning in their field of study through practical training.
+DSOs can authorize an F-1 student’s curricular practical training (CPT) in SEVIS. However, USCIS must authorize practical training for M-1 students and OPT for F-1 students. In addition, F-1 students who majored in an eligible science, technology, engineering or mathematics (STEM) field may qualify for a 24-month extension of post-completion OPT .
+DSOs must understand the reporting requirements, federal regulations and policy guidance related to CPT, OPT or STEM OPT. Students participating in post-completion and STEM OPT are eligible to use the SEVP Portal to meet their legal reporting requirements.
+For more information about practical training for F and M students, including step-by-step instructions and reporting requirements, visit the F/M Student Employment page on the SEVIS Help Hub.
+## School Record Keeping and Reporting
+Regulations require SEVP-certified institutions to report any changes to the Form I-17, “Petition for Approval of School for Attendance by Nonimmigrant Student.” PDSOs and DSOs are required to keep all Form I-17 sections up to date to ensure the Form I-17 reflects an SEVP-certified institution’s current operating status.
+Report any changes to the information on the Form I-17 within 21 days of the change. Failure to follow this regulation may result in withdrawal of your school’s SEVP certification . Visit the School Certification section on the SEVIS Help Hub for more information.
+## School Records in SEVIS
+PDSOs at an institution that has a Form I-17 that does not match the institution’s current operating status must update the petition in SEVIS within 21 days of the change(s).
+These updates could include changes to the information on the School Information page in SEVIS, such as:
+- Contact Information
+- Programs of Study
+- Accreditations and Recognitions
+- School Calendar, Costs and Demographics
+- Campuses, Instructional Sites and Officials
+The evidence your school needs to provide to SEVP depends on accreditation status and the type of program offered by your school. You should upload supporting evidence at the same time that you submit the update in SEVIS, or SEVP may cancel the request and ask that your school resubmit the request with the required evidence.
+For more information and instructions, visit the Update School Information page on the SEVIS Help Hub.
+## PDSO/DSO Annual Verification
+SEVIS is a federal database subject to the Federal Information Security Management Act (FISMA). FISMA requires the annual review and verification of every user with access to a federal system. All PDSOs and responsible officers (ROs) must verify annually that every PDSO, DSO, RO and alternate responsible officer (ARO) who has SEVIS access:
+- Is still employed by the organization and continues to be a PDSO, DSO, RO or ARO.
+- Requires continued access to SEVIS.
+The annual verification period begins on Dec. 2 and ends on March 2 (the verification period runs from Dec. 3 – March 2 if March 2 is in a leap year). SEVP strongly encourages schools and sponsors to complete the verification process as soon as possible. Any user not verified by March 3 at 12:01 a.m. will lose access to SEVIS.
+For a complete overview of the verification process, visit the PDSO/DSO Annual Verification page on the SEVIS Help Hub.
+## Site Visits and On-Site Review
+Federal law and regulation require SEVP to monitor schools and F and M students by collecting data and conducting school site visits and on-site reviews . Field representatives schedule site visits with DSOs in advance. They are conducted for schools that have pending Form I-17 petitions for SEVP certification to confirm the school’s qualifications for certification and to provide an orientation to the roles and responsibilities the school will assume if approved.
+SEVP also performs both scheduled and unscheduled on-site reviews as part of either its recertification or out-of-cycle review processes to ensure ongoing compliance. A school cannot decline these on-site reviews if it wants to maintain its SEVP certification.
+The out-of-cycle review process may include a student record review, a request to submit documentation to verify accreditation, a request for proof of state licensure or a request for any other required evidence that establishes a school’s continued eligibility for SEVP certification and compliance with record keeping and reporting requirements.
+Related Tags: Reporting and Compliance , Reporting
+School Resources Navigation
+- Get StartedWhat to Know About SEVP CertificationDesignated School OfficialKindergarten to Grade 12 SchoolsKindergarten to Grade 12 Private SchoolsGrade 9 to Grade 12 Public SchoolsSEVP Policy Guidance
+- What to Know About SEVP Certification
+- Designated School Official
+- Kindergarten to Grade 12 Schools
+- Kindergarten to Grade 12 Private Schools
+- Grade 9 to Grade 12 Public Schools
+- SEVP Policy Guidance
+- ApplyGetting Started with SEVP CertificationSEVP Field RepresentativesProof of Citizenship or Lawful Permanent ResidencyThe Basics of School Accreditation
+- Getting Started with SEVP Certification
+- SEVP Field Representatives
+- Proof of Citizenship or Lawful Permanent Residency
+- The Basics of School Accreditation
+- SubmitGetting Started with SEVP RecertificationUpdates to Form I-17School Appeal Status TrackerAn Overview of the Appeal and Motion Processes
+- Getting Started with SEVP Recertification
+- Updates to Form I-17
+- School Appeal Status Tracker
+- An Overview of the Appeal and Motion Processes
+- ReportMaintaining Accurate SEVIS RecordsDSOs and the Form I-20Campus Resilience at SEVP-Certified Schools
+- Maintaining Accurate SEVIS Records
+- DSOs and the Form I-20
+- Campus Resilience at SEVP-Certified Schools
+- Additional ResourcesPublicationsConferences
+- Publications
+- Conferences
+## About
+- About Study in the States
+- About SEVIS
+- Contact Us
+## Help
+- Accessibility
+- Metrics
+- Privacy Policy
+- Site Index
+## Partners
+- Department of State
+- Department of Education
+- Department of Commerce
+- Department of Labor
+- Department of Justice
+## Footer Social
+- Facebook
+- Twitter
+- YouTube
+- LinkedIn
