@@ -1,0 +1,100 @@
+SEVP Policy Guidance S13: Form I-20 – Student and Dependent Personal Information
+Fields in SEVIS
+Issue Date: August 31, 2016
+Effective Date: August 31, 2016
+Supersedes: N/A
+Status: Interim Final
+Applicable to: 8 CFR 214.3(k), 8 CFR 214.3(g)
+Purpose/Background: This guidance interprets aspects of the regulations and process for
+designated school official (DSO) issuance of Forms I-20, “Certificate of Eligibility for
+Nonimmigrant Student Status,” to F and M nonimmigrants. This guidance also interprets
+associated DSO recordkeeping and reporting requirements to guide Student and Exchange
+Visitor Program (SEVP) adjudicators.
+DSOs must comply with relevant federal regulations and should comply with the guidance
+interpretation of them to fulfill their responsibilities to the U.S. Department of Homeland
+Security (DHS). Where more restrictive, adjudicators should ensure that DSOs comply with
+school policies.
+Attachments: None.
+Definitions: None.
+Acronyms:
+1. DHS. Department of Homeland Security
+2. DSO. Designated school official
+3. SEVIS. Student and Exchange Visitor Information System
+4. SEVP. Student and Exchange Visitor Program
+Policy:
+1. Basic guidelines. After determining that a prospective F-1 or M-1 student has met the
+conditions for issuance of the Form I-20,1 the DSO must sign and issue the form to each
+prospective F-1 and M-1 student and to each of their prospective accompanying or joining
+dependents (collectively “F or M nonimmigrants”). Issuance of a Form I-20 enables the
+following:
+ Payment of the I-901 Student and Exchange Visitor Information System (SEVIS) Fee (as
+applicable),
+1 8 CFR 214.3(k)
+Policy Guidance S13
+Form I-20 – Student and Dependent Personal Information Fields in SEVIS
+ Application for an F or M visa,2 and
+ Application for admission to the United States.3
+A DSO must complete all required Form I-20 fields accurately in SEVIS both for initial and any
+subsequent Forms I-20. By signing the Form I-20, a DSO attests that all information on the Form
+I-20 is correct.4
+2. Passport and equivalent documents. A DSO should collect a copy of the prospective F or
+M nonimmigrant’s passport prior to issuing a Form I-20. This enables the DSO to enter
+student and dependent information accurately in SEVIS.
+ The passport should be valid. However, a DSO may use an expired passport if the
+prospective F or M nonimmigrant is in the process of renewing a passport.
+ If a passport is not available, a DSO should request copies of other, equivalent
+government-issued travel documents or a certificate of birth. The DSO should retain
+these copies in the student’s file5 at the school.
+ If a valid passport was not used for information entry during initial Form I-20 issuance,
+the DSO should crosscheck the valid passport and correct SEVIS information, as
+necessary, when the nonimmigrant reports to the school and is made Active in SEVIS.
+3. Inputting initial student and dependent biographical information in SEVIS. A DSO
+should use information contained in a prospective F or M nonimmigrant’s passport (or its
+equivalent documents as described in section 2) to enter biographical data into the “Class of
+Admission and Personal Information” and “Add Dependent” pages in SEVIS.
+3.1 Name fields in SEVIS. When entering names in SEVIS, a DSO should use the
+information entered in the machine-readable zone of a passport as a guide. A DSO
+should refer to detailed SEVIS Help Hub instructions, “SEVIS Name Standards” to
+enter student or dependent names into SEVIS.
+3.2. Gender field in SEVIS.
+ The student and dependent gender field includes the following options:
+o Female
+o Male
+o Unknown/Other
+2 If the prospective student and/or his or her dependent (s) is required to obtain a visa. See 22 CFR 41.2.
+3 8 CFR 214.2(f)(1)(i)(A), 8 CFR 214.2(f)(3), 8 CFR 214.2(m)(1)(i)(A), 8 CFR 214.2(m)(3), 8 CFR 214.3(k)
+4 See Form I-20 School Attestation section.
+5 8 CFR 214.3(g)
+Policy Guidance S13
+Form I-20 – Student and Dependent Personal Information Fields in SEVIS
+ A DSO should only select the “unknown/other” option if the passport (or its
+equivalent documents as described in section 2) contains no information related to
+the gender of the prospective student or dependent. Upon the arrival of the student
+or dependent at the school, the DSO must update the field in accordance with
+passport or U.S. visa information.
+4. Changes to student and dependent biographical information in SEVIS. A DSO should
+request a copy of a continuing F or M nonimmigrant’s passport to validate any change to
+biographical information fields within “Class of Admission and Personal Information” and
+“Add Dependent” pages in SEVIS.
+ The DSO should not change these fields without first receiving passport confirmation of
+the change.
+ The DSO should retain copies of these documents in the student’s file.6
+References:
+1. 8 CFR 214.2(f)(1)(i)(A)
+2. 8 CFR 214.2(f)(3)
+3. 8 CFR 214.3(g)
+4. 8 CFR 214.3(k)
+5. 8 CFR 214.2(m)(1)(i)(A)
+6. 8 CFR 214.2(m)(3)
+Limits of use – no private right of action: This SEVP Policy Guidance applies to and is
+binding on all SEVP employees unless specifically exempt. Its intention is solely for the
+guidance of SEVP personnel in the performance of their official duties. Nothing in this guidance
+limits SEVP’s authority or discretion to interpret, administer or enforce any statute, regulation,
+policy or guidance related to SEVP certification. This guidance may be modified, superseded or
+withdrawn at any time. It is not intended to, does not, and may not be relied upon to create or
+confer any right or benefit, substantive or procedural, enforceable at law or in equity by any
+person, individual or other party, public or private, in any administrative, civil or criminal matter.
+Signed by Rachel E. Canty on August 31, 2016
+Deputy Director, External Operations
+Student and Exchange Visitor Program
+6 See footnote 5.

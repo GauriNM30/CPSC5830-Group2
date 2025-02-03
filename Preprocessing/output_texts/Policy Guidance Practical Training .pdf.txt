@@ -1,0 +1,186 @@
+Student and Exchange Visitor Program
+SEVP Policy Guidance: Practical Training- Determining a Direct Relationship Between
+Employment and a Student's Major Area of Study
+Date: September 27, 2019
+Purpose:
+Federal regulation permits F-1 nonimmigrant students to apply for authorization to engage in
+Optional Practical Training (OPT) that is directly related to their major area of study. However,
+students are not required to have a job offer prior to initiating the approval process for OPT,
+which requires both a recommendation from the school's Designated School Official (DSO) and
+an Employment Authorization Document (EAD) from United States Citizenship and
+lnm,igration Services (USCIS).2 Because a student might not have employment at the time they
+obtain a recommendation or authorization to work and can also change employment at any time
+during the OPT period, there has been some uncertainty about the necessary steps to determine if
+an OPT request or opportunity is directly related to a student's major area of study.
+This guidance addresses both OPT and science, teclmology, engineering and mathematics
+(STEM) OPT extension opportunities and explains that students are responsible for providing a
+description of how their job relates to their major area of study, which the DSO must review and
+retain. When the DSO has concerns about whether the job directly relates to the student's major
+area of study, additional documentation may be required to demonstrate the connection.
+This guidance supersedes any information previously provided by the Student and Exchange
+Visitor Program (SEVP) on this matter.
+Background:
+In February 2014, the Government Accountability Office (GAO) recommended that SEVP
+"develop and distribute guidance to DSOs on how to determine whether a job is related to a
+student's area of study and require DSOs to provide information in SEVJS to show that they took
+steps, based on this guidance, to help ensure that the student's work is related to the area of
+study."3 In response to the GAO Report, SEVP enhanced the Student and Exchange Visitor
+Information System (SEVIS) to provide new mechanisms for reporting and tracking student
+employment. For example, SEVIS now issues alerts to notify DSOs of students who have failed
+to report an OPT employer. In addition, beginning in December 2015, SEVIS made the free text
+field, "Explain How Employment is Related to Course Work," mandatory when reporting
+employment. This field is provided so that SEVIS will contain a record of how each job relates
+1 8 CFR 214.2(/)(/ O)(ii)(A).
+2 For STEM OPT the requirements are slightly different and specify that the student have a job or job offer prior to
+seeking the STEM OPT extension.
+3 GAO Report 14-356, Student and Exchange Visitor Program: OHS Needs to Assess Risks and Strengthen
+Oversight of Foreign Students with Employment Authorization.
+SEVP Policy Guidance
+Practical Training-Determining a Direct Relationship Between Employment and a Student's
+Major Area of Study
+to a student's area of study. Other mandatory information related to employment includes
+employer name, start date, whether the employment is full-time or part-time, and employer
+address. Also, SEVIS now tracks unemployment days for individuals participating in practical
+training to help ensure that students do not exceed the applicable unemployment limits, which is
+90 days for OPT and 150 days for STEM OPT.
+Another enhancement is the creation of the SEVP Portal, which launched on March 23, 2018.
+The Portal provides students with a way to directly report, through a SEVIS-linked database,
+certain required information, including information about employment. The Portal includes a text
+field, titled "Relation to Field o/Study: Explain how this job relates to the degree that qualified
+you/or this OPT," so students can explain how their employment relates to their major area of
+study.
+Policy:
+One eligibility requirement for practical training is that the practical training opportunity be
+"directly related to the student's major area of study" (8 CFR 214.2(/)(J0)(ii)(A)). Similarly, for
+the STEM OPT extension, the "practical training opportunity ... must be directly related to the
+degree that qualifies the student for such extension" (8 CFR 214.2(/)(J0)(ii)(C)(4)). "When a
+DSO recommends a student for OPT, the school assumes the added responsibility for
+maintaining the SEVIS record of that student for the entire period of authorized OPT ... " and
+must update "the student's record to reflect these reported changes for the duration of time that
+training is authorized" (8 CFR 214.2(/)(J l)(ii) and (/)(12)(i)). Prior to making a
+recommendation, the DSO at the student's educational institution must ensure that the student is
+eligible for the type and period of OPT and that the student is aware of their responsibility for
+maintaining status while on OPT (8 CFR 214.2(/)(l l)(ii)(A)). The requirement that practical
+training be directly related to a student's major area of study is longstanding and meant to ensure
+that the employment experience supplements the individual's educational pursuits.
+SEVP recognizes that initiating the recommendation and approval process for OPT without
+requiring a job is a significant complication in determining whether there is a direct relation
+between an intended job and a student's course of study. However, nonimmigrant students only
+have a limited time to obtain both the DSO recommendation and the EAD from USCIS before
+finding a job. If students had to obtain a job first and then apply for a recommendation and
+authorization, their ability to start working would be far less certain because an employer would
+have to wait an unspecified period of time before the student could start and ultimately the
+student's request for authorization could be denied, wasting both the employer's and student's
+time. Additionally, it would increase the likelihood that students might start working prior to
+obtaining proper authorization and therefore lose their immigration status because of
+unauthorized employment. For these reasons, the regulations, except those pertaining to STEM
+OPT, permit students to initiate the practical training process and then find a job.
+Another potential complexity with practical training is that the relationship between an
+employment opportunity and a student's major area of study may not be immediately
+discemable. For example, when a student who graduates with a degree in music lists his/her
+employer as a restaurant. There may not appear to be a direct relationship with the degree, but
+SEVP Policy Guidance
+Practical Training- Determining a Direct Relationship Between Employment and a Student's
+Major Area of Study
+the student could be employed as a musical entertainer. Conversely, a DSO should not assume a
+direct relationship just because a student with an accounting degree reports working at an
+accounting firm. Instead, students must describe their job-related duties and explain how those
+duties relate to their major area of study.
+Documenting the Direct Relationship:
+Non immigrant students are responsible for providing a description of how their practical training
+opportunity relates to their major area of study, which the DSO must review and retain.
+Preferably, this description would be entered in the free text section in SEVIS, described above,
+which is provided for the purpose of capturing this information. Students can enter the
+information by using the Portal or DSOs can enter the information directly in SEVIS.
+As an alternative to entering the information in SEVIS, the DSO must obtain an explanation of
+how the job relates to the student's major area of study and retain that explanation in the
+student's records. SEVP may request this information as part of a compliance review. If an
+explanation is not entered in SEVIS, a notation should be made in the free text field indicating
+that the DSO has received an explanation of the direct relationship and will maintain the record
+in the student's file.
+The written explanation, maintained in SEVIS or otherwise, should include the student's job
+title, employer name, major area of study, whether full time5 or the average hours worked per
+week, and a brief explanation of bow the job is directly related to the student's studies. The
+regular duties should be explained and the nexus between those duties and the degree described
+(see examples provided at the end of this document).
+Assessing the Direct Relationship:
+As described in the regulations (8 CFR 21-1.2(1)(1 J)(ii)), when a DSO recommends a student for
+OPT or STEM OPT, the school assumes additional responsibilities to monitor and update the
+student's SEVIS record. Consistent with those responsibilities, a DSO must make a
+determination of whether there is a direct relationship between the job and the major area of
+study. The decision should be made on a case-by-case basis. The inquiry is whether there is a
+logical connection between the duties involved in the practical training opportunity and the
+student's major area of study. In the vast majority of cases, a DSO should be able to make that
+assessment based on the documentation provided by the student. If a DSO believes that the
+documentation does not provide a sufficient explanation, they should ask for additional evidence
+to better understand the relationship. Although not required, DSOs may make use of websites
+that provide a general crosswalk between jobs and programs of study. Examples of these types of
+websites include, but are not limited to, sites maintained by the College Board,6 the Department
+of Labor7 and the National Center for Education Statistics.8
+4 DSO instruction; Student instruction.
+5 For the purpose of this policy, full time is considered to be 20 hours or more per week.
+6  l legeboard.org/majors-careers.
+8  lt.aspx?v=55.
+SEVP Policy Guidance
+Practical Training-Determining a Direct Relationship Between Employment and a Student's
+Major Area of Study
+Common Scenarios and Responsibilities:
+The following describes common scenarios and responsibilities related to establishing a
+relationship between practical training opportunities and a student's major area of study:
+1. Students on Pre-Completion OPT: The DSO is not required to report employer
+information directly in SEVIS for students engaging in Pre-Completion OPT. However,
+the DSO should collect and retain a written explanation from the student on how each
+OPT employment opportunity directly relates to their major area of study.
+2. Students on Post-Completion OPT: When making a recommendation for OPT, the
+DSO should inform the student of the responsibility to only engage in practical training
+opportunities that are directly related to the student's major area of study. The student is
+responsible for reporting their employment to the DSO and explaining, in writing, how
+the job relates to their major area of study so that the information can be reported in
+SEVIS or otherwise retained. This written explanation should be kept in the student's
+record if not entered in the free text field in SEVIS.
+3. Students on STEM OPT Extension: Prior to making a recommendation for a STEM
+OPT extension or when adding new STEM OPT employment, the DSO must collect a
+completed and signed Form 1-983, "Training Plan for STEM OPT Students." The Form
+1-983 must be retained in the student's record.
+4. Students registered with the SEVP Student Portal: DSOs may direct students to report
+their OPT information via the Portal. However, this does not negate the DSO's
+recordkeeping and other responsibilities related to practical training. For that reason, it
+may be necessary to implement spot-check procedures to ensure that appropriate
+information is provided by the student. Students who fail to report or enter their
+information in the Portal in a timely manner or otherwise fail to comply with their
+reporting requirements may be deemed to be in violation of their nonimmigrant status.
+Sample Explanations of a Direct Relationship
+1. Bachelor's degree in Electrical Engineering: I work full time as an Electrical Engineer at
+ABC Corp., a government contractor. In my job, I analyze client requirements for
+electrical systems and provide them with cost estimates of such systems. My work
+requires understanding of electrical circuit theory, which I studied in-depth at the
+University of ABC.
+2. Bachelor's degree in Business: I work full time as a Loan Officer at a mortgage company,
+Happy Homes, where I meet with clients and evaluate, authorize and recommend
+approval of loan applfoations. On a daily basis, I use the knowledge I gained in my credit
+analysis, sales and marketing classes that I took as part of my major program of study.
+3. Master's degree in Music: I am working at a hospital playing the harp in patient rooms. I
+also conduct hands-on harp beginner workshops for long-term patients. On average, I
+SEVP Policy Guidance
+Practical Training-Determining a Direct Relationship Between Employment and a Student's
+Major Area of Study
+work at the hospital 35 hours a week. My duties directly utilize the skills and knowledge
+I acquired from my coursework and degree in music therapy.
+4. PhD in Computer Science: I am employed as a Computer and Information Research
+Scientist at ABC Research Institute. I work as part of a team of scientists and engineers
+that designs experiments to test the operation of various software systems. My work
+builds on research in complex algorithms and machine learning, which I studied as part
+of my dissertation.
+5. Master's degree in Kinesiology: I am working 25 hours a week in a health food store as a
+consultant for Self-Made Inc., designing and teaching exercise classes that are
+incorporated into a customer's overall nutrition and exercise plan. My designs and
+customer instruction draw upon my studies and classwork in exercise therapy and
+physical reconditioning.
+Limits of use - no private right of action: Nothing in this guidance limits SEVP's authority or
+discretion to interpret, administer or enforce any statute, regulation, pol icy or guidance related to
+SEVP certification. It is not intended to, does not, and may not be relied upon to create or confer
+any right or benefit, substantive or procedural, enforceable at law or in equity by any person,
+individual or other party, public or private, in any administrative, civil or criminal matter.
+~SD. Hicks
+Division Chief, External Operations
+Student and Exchange Visitor Program
