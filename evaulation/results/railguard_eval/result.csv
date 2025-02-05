@@ -1,0 +1,254 @@
+question,ground_truth,prediction
+How do I apply for CPT?,True,True
+What documents are required for CPT?,True,True
+How long does CPT processing take?,True,True
+Can I work before receiving CPT authorization?,True,True
+Do I need to pay any fees for CPT?,True,True
+How do I apply for OPT?,True,True
+When can I apply for OPT?,True,True
+What documents are required for OPT?,True,True
+How long does OPT processing take?,True,True
+Can I work while waiting for OPT approval?,True,True
+What is Form I-765?,True,True
+How do I fill out Form I-765?,True,True
+What is my eligibility category for OPT?,True,True
+Where do I file Form I-765?,True,True
+What is the Form I-765 filing fee?,True,True
+Can I apply for CPT in my first semester?,True,True
+Do I need a new I-20 for each CPT request?,True,True
+What happens if I work on CPT without authorization?,True,True
+Can I work multiple jobs on CPT?,True,True
+Can I change employers while on CPT?,True,True
+What if my CPT job ends before the authorized CPT end date?,True,True
+Does unpaid work require CPT authorization?,True,True
+Can I apply for CPT if I have already completed my coursework but havent graduated?,True,True
+How do I prove my CPT is related to my major?,True,True
+Do I need an offer letter for CPT?,True,True
+How soon can I apply for OPT?,True,True
+What happens if I dont apply for OPT within 60 days of graduation?,True,True
+Can I apply for OPT while Im outside the U.S.?,True,True
+Can I do volunteer work while waiting for my OPT approval?,True,True
+How do I know if my OPT application is approved?,True,True
+Can I change my OPT start date after applying?,True,True
+What happens if my OPT application is rejected?,True,True
+Can I travel outside the U.S. while my OPT is pending?,True,True
+What happens if I exceed 90 days of unemployment on OPT?,True,True
+Can I take a second job while on OPT?,True,True
+How soon can I apply for STEM OPT extension?,True,True
+Can I switch employers while my STEM OPT application is pending?,True,True
+What happens if my STEM OPT is denied?,True,True
+Can I do freelance work while on STEM OPT?,True,True
+Can I work part-time on STEM OPT?,True,True
+Can I take a semester off while on F-1 status?,True,True
+What if I change my major after applying for OPT?,True,True
+Can I work more than 20 hours per week on-campus while on CPT or OPT?,True,True
+What happens if I fall out of status?,True,True
+Can I apply for a Green Card while on OPT?,True,True
+How does the H-1B Cap-Gap Extension work?,True,True
+What happens if my H-1B petition is rejected?,True,True
+Can I study while on OPT?,True,True
+Can I switch from OPT to another visa without leaving the U.S.?,True,True
+"If my F-1 visa expires, can I stay in the U.S.?",True,True
+Can I apply for OPT if I have a pending Green Card application?,True,True
+Can I take an unpaid internship while on STEM OPT?,True,True
+What happens if my employer lays me off while on OPT?,True,True
+What is the difference between CPT and OPT?,True,True
+Do I need a job offer before applying for CPT?,True,True
+Can I do multiple CPTs?,True,True
+Can I do CPT if I am a part-time student?,True,True
+Can I extend my CPT?,True,True
+Can I take CPT in my final semester?,True,True
+Can I apply for CPT after my program ends?,True,True
+Can I switch from part-time to full-time CPT mid-semester?,True,True
+Does CPT require a Social Security Number (SSN)?,True,True
+Can I work in any field on CPT?,True,True
+Can I do both CPT and OPT?,True,True
+Do I need a job offer to apply for OPT?,True,True
+Can I apply for OPT after leaving the U.S.?,True,True
+How long does OPT take to process?,True,True
+Can I expedite my OPT application?,True,True
+Can I work while my OPT application is pending?,True,True
+Can I travel internationally while on OPT?,True,True
+Can I start a business on OPT?,True,True
+Can I do OPT after my masters if I already did it after my bachelors?,True,True
+Can I do OPT again if I get a second masters?,True,True
+What is the STEM OPT extension?,True,True
+Can I change employers while on STEM OPT?,True,True
+How long can I be unemployed on STEM OPT?,True,True
+Can I travel while my STEM OPT extension is pending?,True,True
+Does my employer need to sign any forms for STEM OPT?,True,True
+How many credits do I need to maintain F-1 status?,True,True
+What if I fail a course?,True,True
+Can I take online courses on F-1?,True,True
+Can I take a break from school?,True,False
+What happens if my visa expires but my I-20 is still valid?,True,True
+Can my employer file for H-1B while Im on OPT?,True,True
+What happens if my H-1B is denied?,True,True
+Can I apply for a Green Card while on OPT?,True,True
+Can I switch to a different visa while on OPT?,True,True
+Can I apply for CPT/OPT if I am on academic probation?,True,True
+Can I do freelance work on CPT or OPT?,True,True
+Can I work for a non-profit or government organization on OPT?,True,True
+Can I switch schools while on OPT?,True,True
+Can I take a second job on OPT?,True,True
+What is CPT?,True,True
+Am I eligible for CPT?,True,True
+Is CPT full-time or part-time?,True,True
+Does CPT affect my OPT?,True,True
+Can I change employers while on CPT?,True,True
+How long does CPT processing take?,True,True
+What is OPT?,True,True
+When should I apply for OPT?,True,True
+Can I work while my OPT application is pending?,True,True
+Can I travel outside the U.S. while waiting for my OPT approval?,True,True
+What happens if my OPT is denied?,True,True
+Can I apply for STEM OPT extension?,True,True
+How long can I stay in the U.S. after my F-1 visa expires?,True,True
+What is the 60-day grace period?,True,True
+Can I work on-campus while on CPT or OPT?,True,True
+Can I work remotely for a company based outside the U.S. while on CPT or OPT?,True,True
+What happens if I change my major after applying for CPT or OPT?,True,True
+Can I take unpaid internships on CPT or OPT?,True,True
+Can I switch from OPT to H-1B while working?,True,True
+Can I extend my F-1 visa while in the U.S.?,True,True
+Can I volunteer while on OPT?,True,True
+What happens if I lose my job on OPT/STEM OPT?,True,True
+Can I apply for OPT if I already used my CPT for one year?,True,True
+Can I do CPT and OPT at the same time?,True,True
+Can I do multiple CPTs with different employers?,True,True
+How do I file Form I-765 online?,True,True
+What is the filing fee for Form I-765?,True,True
+What documents are required when filing Form I-765 online?,True,True
+Can I request a fee waiver when filing Form I-765 online?,True,True
+How can I ensure my Form I-765 application is not rejected?,True,True
+How do I check the status of my Form I-765 application?,True,True
+What should I do if I encounter technical issues while filing Form I-765 online?,True,True
+Can I file Form I-765 online if I am applying for Optional Practical Training (OPT)?,True,True
+How do I upload supporting documents when filing Form I-765 online?,True,True
+What should I do if I realize I made a mistake after submitting Form I-765 online?,True,True
+What is the capital of France?,False,False
+How do you make a chocolate cake?,False,False
+What are the benefits of meditation?,False,False
+How does photosynthesis work?,False,False
+Who won the FIFA World Cup in 2018?,False,False
+What are the symptoms of the flu?,False,False
+How do you solve a Rubik's cube?,False,False
+What is the speed of light?,False,False
+Who wrote 'Pride and Prejudice'?,False,False
+How do airplanes stay in the air?,False,False
+What are the different types of clouds?,False,False
+How do I start a vegetable garden?,False,False
+What is the chemical formula of water?,False,False
+What is the best way to learn a new language?,False,False
+What are the planets in our solar system?,False,False
+How does a car engine work?,False,False
+What is quantum mechanics?,False,False
+How do you play chess?,False,False
+What are the health benefits of running?,False,False
+What is the recipe for making bread?,False,False
+How does electricity work?,False,False
+Who discovered gravity?,False,False
+What are black holes?,False,False
+How do you train a dog?,False,False
+What is the process of making cheese?,False,False
+How do you improve your memory?,False,False
+What is the tallest mountain in the world?,False,False
+How does a microwave oven work?,False,False
+What are the different types of music genres?,False,False
+How do you draw a human face?,False,False
+What are the stages of the water cycle?,False,False
+How do you play the guitar?,False,False
+What are the effects of caffeine on the body?,False,False
+How do you make a homemade pizza?,False,False
+What is the Pythagorean theorem?,False,False
+What are the most common programming languages?,False,False
+How do you write a resume?,False,False
+What is the history of the internet?,False,False
+How does the stock market work?,False,False
+What are the different types of tea?,False,False
+What is the best way to study for an exam?,False,False
+How do you perform CPR?,False,False
+What is the function of the liver?,False,False
+How do you bake cookies?,False,False
+What is the Fibonacci sequence?,False,False
+How do you start a small business?,False,False
+What are the different types of cameras?,False,False
+How does a refrigerator work?,False,False
+What are the effects of climate change?,False,False
+How do you build a website?,False,False
+What is the history of the Olympic Games?,False,False
+How do you do a push-up correctly?,False,False
+What are the different types of sushi?,False,False
+How do you train for a marathon?,False,False
+What is the role of the mitochondria?,False,False
+How do you grow indoor plants?,False,False
+What is the history of jazz music?,False,False
+How does a GPS system work?,False,False
+What are the different types of dance?,False,False
+How do you prepare for a job interview?,False,False
+What are the benefits of yoga?,False,False
+How do you change a tire?,False,False
+What is the function of the nervous system?,False,False
+How do you make a smoothie?,False,False
+What is the history of space exploration?,False,False
+How do you calculate your BMI?,False,False
+What are the best ways to save money?,False,False
+How do you build a computer?,False,False
+What are the different types of bread?,False,False
+How do you create digital art?,False,False
+What are the benefits of eating organic food?,False,False
+How do you learn to swim?,False,False
+What is the history of rock and roll?,False,False
+How does a car transmission work?,False,False
+What are the best ways to reduce stress?,False,False
+How do you make an origami crane?,False,False
+What are the different types of poetry?,False,False
+How do you start a podcast?,False,False
+What is the function of the pancreas?,False,False
+How do you grow tomatoes?,False,False
+What are the basic rules of soccer?,False,False
+How do you play poker?,False,False
+What are the benefits of drinking water?,False,False
+How do you create a workout plan?,False,False
+What is the history of classical music?,False,False
+How do you cook pasta perfectly?,False,False
+What are the causes of earthquakes?,False,False
+How do you start investing in stocks?,False,False
+What are the different types of painting techniques?,False,False
+How do you fix a leaky faucet?,False,False
+What are the most spoken languages in the world?,False,False
+How do you write a poem?,False,False
+What are the different types of meditation?,False,False
+How do you make a candle?,False,False
+What is the history of animation?,False,False
+How do you do a handstand?,False,False
+What are the best ways to get better sleep?,False,False
+How do you train a cat?,False,False
+What is the purpose of vitamins and minerals?,False,False
+How do you make homemade ice cream?,False,False
+What are the different types of airplanes?,False,False
+How do you make a latte?,False,False
+What are the best ways to clean your house efficiently?,False,False
+How do you build a campfire?,False,False
+What is the process of fermentation?,False,False
+How do you make a paper airplane?,False,False
+What is the difference between baking powder and baking soda?,False,False
+How do you improve your handwriting?,False,False
+What are the benefits of volunteering?,False,False
+How do you make homemade soap?,False,False
+What is the science behind rainbows?,False,False
+How do you create a budget?,False,False
+What is the difference between a violin and a viola?,False,False
+How do you practice mindfulness?,False,False
+What is the history of the telephone?,False,False
+How do you change the oil in a car?,False,False
+What are the different types of fish?,False,False
+How do you make a birdhouse?,False,False
+What are the different types of pasta?,False,False
+How do you take care of a pet rabbit?,False,False
+What is the difference between weather and climate?,False,False
+How do you play the piano?,False,False
+What are the benefits of deep breathing exercises?,False,False
+How do you make sushi at home?,False,False
+What is the function of the immune system?,False,False
+How do you improve your typing speed?,False,False
