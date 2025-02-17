@@ -1,0 +1,1907 @@
+SEVP Policy Guidance 1004-03
+Update to Optional Practical Training
+Student and Exchange Visitor Program
+U.S. Department of Homeland Security
+SEVP MS 5600
+500 12th Street SW
+Washington, DC 20536-5600
+April 23, 2010
+POLICY GUIDANCE FOR:
+Student and Exchange Visitor Program and
+Designated School Officials of SEVP-Certified
+Schools with F-1 Students Eligible for or Pursuing
+Post-Completion Optional Practical Training
+FROM:
+SEVP Policy
+SUBJECT:
+Policy Guidance 1004-03 – Update to Optional
+Practical Training
+Authority: 8 CFR 214.2(f)(5), (10), (11), and (12) and 247a.12(c)(6)(iv) and (v)
+Purpose: On April 8, 2008, the Department of Homeland Security (DHS) published an
+Interim Final Rule (IFR) in the Federal Register titled, Extending Period of Optional
+Practical Training by 17 Months for F-1 Nonimmigrant Students With STEM Degrees
+and Expanding Cap gap Relief for All F-1 Students With Pending H-1B Petitions. The
+text of the rule can be read at
+Through that rulemaking, DHS made changes to post-completion optional practical
+training (OPT) that were effective immediately with publication. The IFR included
+explanation of the purpose for these changes and the reasons for its immediate
+implementation.
+This Policy Guidance1 supplements the IFR, providing more detailed guidance for
+designated school officials (DSOs). It supersedes the Student and Exchange Visitor
+Program (SEVP) Policy Guidance 0801-01 and 0801-02.This update does the following:
+ Provides current dates related to H-1B petitioning for 2010 (and removes
+information related to previous years.
+ Amends the text to past tense, as applicable.
+ Replaces the term “OPT STEM extension” with “17-month extension.”
+Classification of Instructional Program (CIP) codes for all science, technology,
+engineering and math (STEM) are the universe for those CIPs that are approved
+1 This guidance represents the SEVP administration’s current thinking on this topic. It is advisory in nature, informational in content
+and is intended to provide guidance to the SEVIS user community and to all SEVP personnel involved in the adjudication and review
+of petitions for SEVP certification and appeals.
+It reflects the position on, or interpretation of, the applicable laws or regulations published by DHS as of the date of publication,
+which is shown on the first page of the policy guidance. This guidance does not, in any way, replace or supersede those laws or
+regulations. Only the latest official release of the applicable law or regulation is authoritative.
+This guidance does not create or confer any rights for or on any person and does not operate to bind SEVP or the public.
+SEVP Policy Guidance 1004-03
+Update to Optional Practical Training
+by DHS for the 17-month extension. However, DHS does not approve all STEM
+CIPS for the extension.
+ Deletes reference to the public comment period for the IFR, which has closed
+(section 1.2). Adds text related to school filing of courses of study for CIPs, for
+STEM designation of CIPS and for DHS approval of STEM CIPS for the 17-
+month extension of OPT (section 1.3). Adds text on other resources available
+related to the IFR (section 1.4)
+ Refines procedures for filing for OPT after the program end date (section 5.2)
+ Deletes 10 day exceptions to the time that counts for unemployment during OPT
+at the EAD start date and between jobs. SEVP will need approval for such
+exceptions through another proposed rulemaking. (sections 7.1.6 and 7.1.7)
+ Removed restriction that employment during the 17-month extension must be
+paid employment. SEVP will need approval for such a restriction through
+another proposed rulemaking. (sections 7.2.2 and 7.2.3)
+ Deletes dates for wait-listing for this year. SEVP has been notified by U.S.
+Citizenship and Immigration Services (USCIS) that there will not be a waitlist
+utilized as a part of the FY 2011 H1B Cap filing process (section 9.1.1);
+[NEW AND/OR REVISED]
+Comments: To comment on this Policy Guidance or suggest a change, please e-mail
+sevis.source@dhs.gov with “Policy Guidance 1004-03 Comment” in the subject line.
+SEVP Policy Guidance 1004-03
+Update to Optional Practical Training
+Table of Contents
+Table of Contents........................................................................................................................................ 3
+1. General Information About the Optional Practical Training Interim Final Rule (IFR)...............................
+1.1.
+Where can I find a copy of the IFR?.........................................................................................
+1.2.
+Is DHS accepting comments on the IFR?................................................................................
+1.3.
+What should a school do to have courses of study assigned CIPS, nominate CIPS for STEM
+designation, or nominate a STEM CIP to DHS for approval to receive the 17-month
+extension?................................................................................................................................
+1.4.
+Where can I find other guidance related to the IFR? ...............................................................
+2. Major Provisions of the Rule....................................................................................................................
+2.1.
+Provisions applicable to all F-1 students eligible for OPT........................................................
+2.2.
+Provisions applicable to F-1 students who are the beneficiaries of a properly filed H-1B
+petition......................................................................................................................................
+2.3.
+Provisions applicable to F-1 students with a STEM CIP approved by DHS for a 17-month
+extension of OPT......................................................................................................................
+2.4.
+Where is the list of STEM designated CIPS accepted by DHS for the 17-month extension? .
+3. General Information About OPT and the Cap Gap..................................................................................
+3.1.
+What is OPT?...........................................................................................................................
+3.2.
+Who is eligible for OPT? ..........................................................................................................
+3.2.1.
+Pre-completion OPT .................................................................................................
+3.2.2.
+Post-completion OPT ...............................................................................................
+4. Key Terms................................................................................................................................................
+4.1.
+H-1B Cap................................................................................................................................
+4.2.
+Cap gap..................................................................................................................................
+4.3.
+Cap gap extension .................................................................................................................
+4.4.
+Cap gap OPT .........................................................................................................................
+4.5.
+STEM CIP 17-month extension of OPT for courses of study approved by DHS...................
+4.6.
+E-Verify employer...................................................................................................................
+4.7.
+CIP Code................................................................................................................................
+4.8.
+Grace period...........................................................................................................................
+4.9.
+Unemployment time ...............................................................................................................
+4.10. Data fix ...................................................................................................................................
+5. Deadline for Applying for OPT ...............................................................................................................
+5.1.
+What is the deadline for applying for post-completion OPT?.................................................
+5.2.
+How can a DSO recommend OPT after a student’s program end date?...............................
+5.3.
+When should a student request that his or her DSO recommend post-completion OPT? ....
+5.4.
+What is the earliest date a student can file a request for post-completion OPT with USCIS?
+5.5.
+What is the earliest a student can apply for pre-completion OPT?........................................
+5.6.
+What is the earliest a student can apply for the 17-month extension of OPT?......................
+5.7.
+Can a student file for combined pre-completion OPT and post-completion OPT?................
+6. Beginning and Ending Dates of Post-Completion OPT.........................................................................
+SEVP Policy Guidance 1004-03
+Update to Optional Practical Training
+6.1.
+What are the restrictions on the requested start date for post-completion OPT?..................
+6.2.
+What are the restrictions on the requested end date for post-completion OPT?...................
+6.3.
+What employment dates will be authorized for post-completion OPT? .................................
+6.4.
+Can a student apply for OPT prior to his or her program end date and continue that
+employment after the program end date?..............................................................................
+6.5.
+In SEVIS, what distinguishes pre-completion OPT from post-completion OPT?...................
+6.6.
+If a student receives an EAD for 12 months of pre-completion OPT but finishes his or her
+course of study early, can the student continue to use the EAD issued for pre-completion
+OPT after the program end date? ..........................................................................................
+6.7.
+Can a student in a graduate-level program who has completed all program requirements,
+aside from thesis or equivalent, apply for either pre-completion OPT or post-completion
+OPT? ......................................................................................................................................
+6.8.
+If a student does not complete his or her thesis/dissertation during the 12 months of post-
+completion OPT, what steps must he or she take? ...............................................................
+6.9.
+What happens if a student (excluding those students who have completed all program
+requirements aside from thesis or equivalent) applies for post-completion OPT before his or
+her program end date and subsequently fails to complete the requirements for his or her
+program?................................................................................................................................
+6.10. How does a transfer or change of education level impact the period of OPT? .....................
+7. Limits on Periods of Unemployment During a Period of Authorized OPT.............................................
+7.1.
+Limits on periods of unemployment .......................................................................................
+7.1.1.
+What are the limits on periods of unemployment? .................................................
+7.1.2.
+Do the limits on unemployment apply to any periods of unemployment prior to April
+8, 2008?..................................................................................................................
+7.1.3.
+Do the limits apply to students who had post-completion OPT approved before
+April 8, 2008?..........................................................................................................
+7.1.4.
+Is a student who splits OPT between two degrees at the same education level
+limited to a total of 90 days of unemployment?......................................................
+7.1.5.
+How many hours does a student need to work per week during post-completion
+OPT (including the 17-month extension) to be considered employed? .................
+7.1.6.
+What counts as time unemployed? ........................................................................
+7.1.7.
+If a student does not receive the approved EAD, the missing EAD is not returned
+to the USCIS Service Center, and the student applies for a replacement EAD,
+when does the student begin accruing unemployment? ........................................
+7.1.8.
+How does travel outside the United States impact the period of unemployment?.
+7.2.
+Employment allowed while on OPT .......................................................................................
+7.2.1.
+What types of employment are allowed for regular pre- and post-completion OPT?
+7.2.2.
+What types of employment are allowed for students during a 17-month extension
+of OPT? ..................................................................................................................
+7.2.3.
+Can a student work multiple jobs during a 17-month extension of OPT? ..............
+7.2.4.
+How does a student show that employment is directly related to his or her degree
+program? ................................................................................................................
+7.3.
+Reporting employment and unemployment (other than students with a 17-month extension)
+7.3.1.
+What should a student report to ensure that his or her status does not expire due
+to excessive unemployment time? .........................................................................
+7.3.2.
+How should a student report employment/unemployment information and changes
+to that information to his or her DSO?....................................................................
+7.3.3.
+How should DSOs report periods of employment in SEVIS?.................................
+7.4.
+Consequences of exceeding the period of unemployment....................................................
+7.4.1.
+How should a DSO advise a student who is close to reaching the limit on
+authorized unemployment? ....................................................................................
+SEVP Policy Guidance 1004-03
+Update to Optional Practical Training
+7.4.2.
+What is the effect on a student’s status if the student exceeds the period of
+unemployment? ......................................................................................................
+7.4.3.
+Is a DSO responsible for determining if a student has exceeded the limit of
+unemployment time while on OPT?........................................................................
+7.4.4.
+How will DHS enforce this provision?.....................................................................
+8. 17-Month Extension of OPT for F-1 Students W ith a STEM CIP Approved by DHS ...........................
+8.1.
+Eligibility .................................................................................................................................
+8.1.1.
+Who is eligible for the 17-month extension? ..........................................................
+8.1.2.
+How does a student or DSO know which CIPS are designated as STEM CIPs
+approved by DHS for the 17-month extension? .....................................................
+8.1.3.
+Can a student with a dual major qualify for the 17-month extension based on one
+of the degree programs? ........................................................................................
+8.1.4.
+Can a student qualify for the 17-month extension based on the student’s minor?
+8.1.5.
+Can a student who has previously earned a degree in a STEM CIP approved by
+DHS for the 17-month extension and has now earned a non-STEM CIP or a STEM
+CIP not approved by DHS for the 17-month extension apply for the extension?...
+8.1.6.
+Are programs of study with CIP codes ending in “99” eligible for the 17-month
+extension? ..............................................................................................................
+8.1.7.
+What can a student do if his or her course of study has a CIP code ending in “99”
+thus making the student ineligible for the 17-month extension? ............................
+8.1.8.
+How can someone suggest a change to the STEM CIPS approved by DHS for the
+17-month extension?..............................................................................................
+8.2.
+Filing for the 17-month extension of OPT ..............................................................................
+8.2.1.
+What are the DSO’s responsibilities when recommending a 17-month extension for
+a student?...............................................................................................................
+8.2.2.
+When does the student need to file for the extension? ..........................................
+8.2.3.
+Can a student apply for the 17-month extension when he or she is within a period
+of cap gap extension? ............................................................................................
+8.2.4.
+What are the DSO’s responsibilities for assisting a student who is filing for a 17-
+month extension? ...................................................................................................
+8.2.5.
+How and where does the student for file the extension? .......................................
+8.2.6.
+What is the fee for the application for the 17-month extension?............................
+8.2.7.
+What if the DSO believes the student is eligible for the extension but SEVIS does
+not show the link needed to request the extension? ..............................................
+8.2.8.
+If a student requests a recommendation from a DSO for the 17-month extension,
+and that request requires a data fix because the student originally applied for pre-
+completion OPT prior to the April 2008 rule, will SEVP still process the data fix if it
+has not been completed by the time the original 12-month OPT authorization
+ends?......................................................................................................................
+8.2.9.
+If the extension link shows in SEVIS, does this indicate the student is eligible for
+the 17-month extension?........................................................................................
+8.2.10.
+What documents will meet the USCIS requirements on the Form I-765 for a copy
+of the student’s degree?.........................................................................................
+8.2.11.
+In Item 17 of the Form I-765, what should the student list as the degree? ............
+8.3.
+E-Verify...................................................................................................................................
+8.3.1.
+Is there a resource list of employers who are enrolled in the E-Verify program? ..
+8.3.2.
+How do employers enroll in E-Verify? ....................................................................
+8.3.3.
+What does the student need to know about the employer in order to complete the
+Form I-765 when applying for the 17-month extension?........................................
+8.3.4.
+Is the DSO responsible for verifying that the student is working for an E-Verify
+employer?...............................................................................................................
+8.4.
+Employment authorization while the 17-month extension application is pending..................
+8.4.1.
+When does the student’s period of 17-month extension start?..............................
+SEVP Policy Guidance 1004-03
+Update to Optional Practical Training
+8.4.2.
+Can the student work with an expired employment authorization document while a
+17-month extension of OPT is pending?................................................................
+8.4.3.
+Can the student change employers while the 17-month extension application is
+pending?.................................................................................................................
+8.4.4.
+Can the student travel outside of the United States if his or her employment
+authorization document expires and the 17-month extension request is pending?
+8.5.
+Can a student change employers during the 17-month extension? ......................................
+8.6.
+How do employers report to a DSO that a 17-month extension student is no longer
+employed?..............................................................................................................................
+8.7.
+Student responsibilities while on 17-month extension ...........................................................
+8.8.
+DSO responsibilities relating to a student granted a 17-month extension of OPT ................
+9. Cap Gap Automatic Extension for F-1 Students Who Are the Subject of an H-1B Petition..................
+9.1.
+Basic provisions .....................................................................................................................
+9.1.1.
+What determines the length of the cap gap extension? .........................................
+9.1.2.
+If a student was not in an authorized period of OPT on the eligibility date, can the
+student work during the cap gap extension?..........................................................
+9.1.3.
+Does a student need to file an application or pay a fee to receive a cap gap
+extension? ..............................................................................................................
+9.1.4.
+What is the length of the cap gap extension? ........................................................
+9.1.5.
+Can the cap gap extension of OPT be extended beyond  September 30 if the H-1B
+petition filed on the student’s behalf has not been adjudicated by USCIS?...........
+9.1.6.
+Will a student receive personal notification when he or she has a cap gap
+extension? ..............................................................................................................
+9.1.7.
+How will a student know he or she has a cap gap extension?...............................
+9.1.8.
+How will a student know if his or her cap extension is terminated before September
+30 due to a withdrawn or denied H-1B petition? ....................................................
+9.2.
+Proof of the extension of status and work authorization ........................................................
+9.2.1.
+What proof will a student have that he or she is entitled to the extension of work
+authorization and status? .......................................................................................
+9.2.2.
+What information appears on the Form I-20 if an F-1 student is eligible for the cap
+gap extension of F-1 status and OPT?...................................................................
+9.2.3.
+What appears on the Form I-20 if an F-1 student is eligible for the cap gap
+extension of F-1 status but not OPT?.....................................................................
+9.3.
+Issues with SEVIS and the cap gap extension ......................................................................
+9.3.1.
+What if SEVIS does not show that an eligible student’s work authorization and
+status have been extended? ..................................................................................
+9.3.2.
+What are the responsibilities of the DSO for ensuring that SEVIS properly shows
+the student has a cap gap extension?....................................................................
+9.4.
+Student responsibilities during the cap gap extension...........................................................
+9.4.1.
+If a student is eligible for the cap gap extension, can he or she continue to work
+while SEVP is updating the student’s SEVIS record with the extension?..............
+9.4.2.
+Can a student travel outside the United States during a cap gap extension period
+and return in F-1 status? ........................................................................................
+9.4.3.
+Do the limits on unemployment time apply to a student with a cap gap extension?
+9.4.4.
+What does a student on a cap gap extension need to report to his or her DSO?..
+9.4.5.
+What are the restrictions on the type of employment for a student with a cap gap
+OPT? ......................................................................................................................
+10. Reporting for a Student on Post-Completion OPT ................................................................................
+SEVP Policy Guidance 1004-03
+Update to Optional Practical Training
+Top Table of Contents SEVP Home Page Glossary
+1.
+GENERAL INFORMATION ABOUT THE OPTIONAL PRACTICAL TRAINING INTERIM
+FINAL RULE (IFR)
+1.1.
+Where can I find a copy of the IFR?
+Federal Register: The IFR was published in the Federal Register on April
+8, 2008. See 73 FR 18944. You can find the text of the notice on-line on
+the Federal Register Web site.
+Updated Text of the 8 CFR Selected Portions of Parts 214 and 274a
+The Electronic Code of Federal Regulations (e-CFR) is a currently
+updated version of the Code of Federal Regulations (CFR). It is not an
+official legal edition of the CFR. It is an editorial compilation of CFR
+material and Federal Register amendments produced by the Office of the
+Federal Register and the Government Printing Office. The e-CFR is
+updated daily. You can find the text of the 8 CFR by selecting Title 8 on
+the drop down list and following the links for the relevant paragraphs.
+1.2.
+Is DHS accepting comments on the IFR?
+No, DHS accepted comments to the rule through June 9, 2008. As always,
+SEVP welcomes comments on this guidance and any other program-
+related issues or concerns through SEVIS.Source@dhs.gov
+[NEW AND/OR REVISED]
+1.3.
+What should a school do to have courses of study assigned CIPS,
+nominate CIPS for STEM designation, or nominate a STEM CIP to
+DHS for approval to receive the 17-month extension?
+Any school that develops a course of study new to its school should go to
+the website at HTTP://NCES.ED.GOV/IPEDS/CIPCODE/DEFAULT.ASPX?Y=55 .
+Here they can find the answer to almost any CIP related question. In all
+likelihood, the course of study will fit in an existing CIP designation. If the
+school is unclear or believes they have a course of study for which there is
+no CIP, the website includes email or phone contact information to get
+direct access with a Department of Education official.
+When the school has an assigned CIP for its course of study, if they
+believe it should be recognized as STEM, they should contact Jeri Mulrow,
+Senior Mathematical Statistician, Division of Science Resources Statistics,
+National Science Foundation (NSF), 703-292-4784, JMULROW@NSF.GOV
+and make their recommendation.
+To suggest a change to the list of STEM designated CIPSs approved by
+DHS, write to SEVIS.SOURCE@DHS.GOV, with “STEM CIP Code Change
+Request” in the subject line. Please include your name, phone number,
+organizational affiliation, the code(s) you would like to see added and the
+rationale for the addition. Change requests will be reviewed by ICE in
+conjunction with the Department of Education and other advisors.
+SEVP Policy Guidance 1004-03
+Update to Optional Practical Training
+[NEW AND/OR REVISED]
+1.4.
+Where can I find other guidance related to the IFR?
+USCIS has published guidance on the IFR titled Extension of Post-
+Completion Optional Practical Training (OPT) and F-1 Status for
+Eligible Students under the H-1B Cap-Gap Regulations
+[NEW AND/OR REVISED]
+Top Table of Contents SEVP Home Page Glossary
+2.
+MAJOR PROVISIONS OF THE RULE
+2.1.
+Provisions applicable to all F-1 students eligible for OPT
+Through this rule, DHS established two new provisions that apply to all F-
+1 students eligible for post-completion OPT. DHS:
+ Extended the period in which a student may apply for post-completion
+OPT to 60 days after the student’s program end date. See the section
+of the rule on the deadline for filing for post-completion OPT for details.
+ Established a limit on the number of days students in a period of post-
+completion OPT can be unemployed and still maintain F-1 status. For
+students on regular post-completion OPT or an automatic extension
+due to the cap gap provisions, the limit is 90 days. Students with an
+approved 17-month extension will receive another 30 days of
+unemployment time for a total of 120 days over the entire period of
+post-completion OPT. See the section on limits on the periods of
+unemployment for details.
+2.2.
+Provisions applicable to F-1 students who are the beneficiaries of a
+properly filed H-1B petition
+These provisions apply to F-1 students who are the beneficiaries of an H-
+1B petition and who (due to the cap on the number of H-1B petitions
+accepted in a given year) cannot begin employment until the beginning of
+the fiscal year following the fiscal year in which the H-1B petition was filed.
+Before this rulemaking, the F-1 status for these students often expired
+before their H-1B status began — a period known as the cap gap.
+Through this provision of the rule, DHS automatically extends the F-1
+status and, for students on post-completion OPT, the employment
+authorization for students formerly subject to the cap gap. See the section
+on the cap gap provisions for details.
+2.3.
+Provisions applicable to F-1 students with a STEM CIP approved by
+DHS for a 17-month extension of OPT
+Through this rule, DHS allows F-1 students who meet the following criteria
+to apply for the 17-month extension:
+ On a period of post-completion OPT approved after earning a
+bachelor’s, master’s, or doctoral degree;
+SEVP Policy Guidance 1004-03
+Update to Optional Practical Training
+ In a course of study recognized by the NSF as a STEM CIP; and
+ On the list of designated CIPs accepted by DHS for the 17-month
+extension
+See the section on 17-month extension for details.
+[NEW AND/OR REVISED]
+2.4.
+Where is the list of STEM designated CIPS accepted by DHS for the
+17-month extension?
+The list of STEM CIPS accepted for the 17-month extension by DHS was
+in the preamble to the IFR (see 73 CFR 18948). Updates to the list have
+been posted on the Immigration and Customs Enforcement (ICE) Web site
+at
+[NEW AND/OR REVISED]
+Top Table of Contents SEVP Home Page Glossary
+3.
+GENERAL INFORMATION ABOUT OPT AND THE CAP GAP
+3.1.
+What is OPT?
+OPT is training that is directly related to an F-1 student’s major area of
+study. It is intended to provide a student with practical experience in his or
+her field of study during or upon completion of a degree program.
+3.2.
+Who is eligible for OPT?
+An F-1 student who has attended an SEVP-certified college, university,
+conservatory, or seminary on a full-time basis for at least one academic
+year may be authorized for up to 12 months of OPT per education level.
+However, F-1 students who have one year or more of full-time curricular
+practical training are not eligible for OPT for that degree.
+3.2.1.
+Pre-completion OPT
+Pre-completion OPT is OPT authorized to be engaged in before the
+student’s program end date. Students with approved pre-completion OPT
+may work up to 20 hours per week while school is in session. Students
+who are eligible to register for the next term and who plan to do so may
+have approval to work full time when school is not in session.
+3.2.2.
+Post-completion OPT
+Post-completion OPT is OPT authorized to be engaged in after the
+student’s program end date.
+Top Table of Contents SEVP Home Page Glossary
+4.
+KEY TERMS
+Other terms are amplified and/or defined in the SEVP glossary (link
+above).
+SEVP Policy Guidance 1004-03
+Update to Optional Practical Training
+4.1.
+H-1B Cap
+The H-1B cap is the Congressionally-mandated limit on the number of
+individuals who may be granted H-1B status during each fiscal year. For
+FY11, the cap remains 65,000 (with certain statutory exemptions).
+4.2.
+Cap gap
+Many employers file H-1B petitions on behalf of F-1 students after their
+post-completion OPT expires. By regulation, an employer cannot file and
+USCIS can not approve an H-1B petition submitted earlier than six months
+before the date of actual need for the beneficiary’s services or training.
+As a result, the earliest date that an employer can file an H-1B petition for
+consideration under the next fiscal year cap is April 1 for an October 1
+employment start date. If that H-1B petition and the accompanying change
+of status request are approved, the earliest date that the student may start
+approved H-1B employment is October 1.
+Consequently, prior to this IFR, F-1 students who were the beneficiaries of
+approved H-1B petitions, but whose periods of authorized stay (including
+authorized periods of post-completion OPT and their grace period expired
+before October 1, had to leave the United States, apply for an H-1B visa at
+a consular post abroad and then seek readmission to the United States in
+H-1B status.
+The term “cap gap” refers to the period of time between the time an F-1
+student’s status would ordinarily end and his or her H-1B status begins.
+Before publication of this IFR, the cap gap occurred when an F-1 student
+was the beneficiary of a successful H-1B petition, but his or her F-1 status
+ended before his or her H-1B status began. The time between the end of
+the F-1 status and beginning of H-1B employment was referred to as the
+cap gap.
+The most common situation occurred when the student’s OPT ended in
+the spring or early summer, and his or her F-1 status expired 60 days after
+that, leaving a gap of several months before the individual’s H-1B status
+began on October 1.
+Before publication of this IFR, DHS could remedy this problem by
+publishing a Federal Register notice allowing students to remain in status
+in order to span the cap gap. However, this remedy was not automatic and
+did not allow the student to continue OPT during the gap period.
+[NEW AND/OR REVISED]
+4.3.
+Cap gap extension
+Through this rulemaking, DHS automatically extended the student’s F-1
+status and work authorization, the “cap gap extension” – a period in which
+an eligible F-1 student’s status is automatically extended to bridge the gap
+between the end of F-1 status and start of H-1B status. If the student is in
+SEVP Policy Guidance 1004-03
+Update to Optional Practical Training
+a period of authorized post-completion OPT on or after the date the
+student becomes eligible for the extension, the student’s post-completion
+OPT is also automatically extended.
+[NEW AND/OR REVISED]
+4.4.
+Cap gap OPT
+A period of OPT that has been extended beyond the date on the F-1
+student’s employment authorization document during an authorized cap
+gap extension.
+4.5.
+STEM CIP 17-month extension of OPT for courses of study approved
+by DHS
+An additional 17-month period of OPT granted to a student on post-
+completion OPT whose course of study is recognized as STEM and that is
+approved by DHS. The student must meet the qualifications in 8 CFR
+214.2(10)(ii)(C).
+[NEW AND/OR REVISED]
+4.6.
+E-Verify employer
+An E-Verify employer is an employer registered and in good standing with
+the USCIS E-Verify program.
+4.7.
+CIP Code
+Classification of Instructional Programs (CIP) codes are published by the
+National Center for Education Statistics (NCES) and are used in SEVIS to
+designate a student’s major, secondary major and minor. Certain CIP
+codes have been designated by DHS as STEM designated CIPS and
+courses of study that are eligible for the 17-month extension of OPT. More
+information on NCES CIP codes is available at:
+4.8.
+Grace period
+The 60-day period of time given to an F-1 student after the completion of a
+course of study or an authorized period of post-completion OPT, allowing
+the student time to prepare for departure from the United States, apply for
+a transfer to another SEVP-certified school, request a change of education
+level at the current school or take steps to otherwise maintain legal status.
+4.9.
+Unemployment time
+The total time spent without a qualifying job during post-completion OPT.
+Except as noted in the section on what counts as time unemployed, each
+day that the student is not employed in a qualifying job is counted toward
+the limit on unemployment time. The limit is 90 days for students on post-
+completion OPT, including those with a cap gap extension, except that
+students with an approved 17-month extension are given an additional 30
+days of unemployment time for a maximum of 120 days.
+SEVP Policy Guidance 1004-03
+Update to Optional Practical Training
+4.10.
+Data fix
+A change or correction made to a student’s SEVIS record by authorized
+SEVP staff, usually at the request of a DSO. Some data fixes may be
+requested through the correction function in SEVIS. If a correction function
+is not available to the DSO, the data fix must be requested from the
+SEVIS help desk at (800) 892-4829.
+Top Table of Contents SEVP Home Page Glossary
+5.
+DEADLINE FOR APPLYING FOR OPT
+5.1.
+What is the deadline for applying for post-completion OPT?
+An F-1 student may apply for post-completion OPT up to 90 days before
+the student’s program end date and up to 60 days after his or her program
+end date. The application must be properly filed with the correct USCIS
+Service Center. In addition, the application must be properly filed within 30
+days of the date the student’s DSO recommends OPT in SEVIS.
+5.2.
+How can a DSO recommend OPT after a student’s program end
+date?
+SEVIS will be (but has not yet been) updated to allow DSOs to
+recommend OPT after the student’s program end date (other than for a
+17-month extension). Until SEVIS is updated, DSOs should request a data
+fix by calling the SEVIS help desk at (800) 892-4829.
+If the student needs to file immediately (i.e., is approaching the end of the
+60-day grace period), the student should file the Form I-765 Application for
+Employment Authorization with USCIS without waiting for the Form I-20
+Certificate of Nonimmigrant Student Eligibility. The student should include
+a statement indicating that a data fix is pending, and the Form I-20 will be
+furnished later. SEVP recommends including the SEVIS help desk ticket
+number in this statement.
+When SEVP processes the data fix, the DSO will be able to print a Form I-
+20 recommending post-completion OPT and provide it to the student. If a
+student is unable to submit the Form I-20 with the Form I-765 application,
+USCIS requests that student wait until the USCIS Service Center sends a
+Request for Evidence (RFE) to send the Form I-20. This will help the
+USCIS Service Center ensure the Form I-20 is matched to the correct
+application.
+[NEW AND/OR REVISED]
+5.3.
+When should a student request that his or her DSO recommend post-
+completion OPT?
+A student should ask his or her DSO to recommend post-completion OPT
+within 30 days of the date the student expects the application to arrive at
+the USCIS Service Center. If the OPT recommendation in SEVIS is dated
+more than 30 days prior to the receipt date, the application may be denied.
+SEVP Policy Guidance 1004-03
+Update to Optional Practical Training
+5.4.
+What is the earliest date a student can file a request for post-
+completion OPT with USCIS?
+A student may file the request for post-completion OPT no more than 90
+days prior to the student’s program end date.
+5.5.
+What is the earliest a student can apply for pre-completion OPT?
+A student may file for OPT up to 90 days before he or she completes a full
+academic year. If the student has already completed a full academic year,
+he or she may apply for OPT up to 90 days in advance of the requested
+employment start date.
+5.6.
+What is the earliest a student can apply for the 17-month extension
+of OPT?
+A student may file for the 17-month extension up to 120 days prior to the
+end of his or her post-completion OPT.
+5.7.
+Can a student file for combined pre-completion OPT and post-
+completion OPT?
+No, the regulatory provisions differentiate between pre-and post-
+completion OPT in the application process and in the requirements for
+maintaining employment.
+SEVIS has been updated to support this revision. DSOs should ensure
+that the employment end date for pre-completion OPT is on or before the
+student’s program end date.
+Top Table of Contents SEVP Home Page Glossary
+6.
+BEGINNING AND ENDING DATES OF POST-COMPLETION OPT
+6.1.
+What are the restrictions on the requested start date for post-
+completion OPT?
+A student cannot have a requested start date that is more than 60 days
+past the student’s program end date.
+6.2.
+What are the restrictions on the requested end date for post-
+completion OPT?
+The requested end date cannot be more than 12 months after the
+requested start date. The end date may be sooner if the student has less
+than 12 months of OPT left at the current education level or the student
+wishes to retain a period of OPT for pre-or post-completion OPT for
+another degree at the same education level.
+6.3.
+What employment dates will be authorized for post-completion OPT?
+The start date will be the requested start date or the date of approval,
+whichever is later. (A start date more than 60 days after the program end
+date is treated as a request to start on the 60th day after the program end
+date.)
+SEVP Policy Guidance 1004-03
+Update to Optional Practical Training
+The end date will be the earliest of:
+ The requested end date. (If USCIS adjudicates the Form I-765 after the
+requested start date, the end date will be extended to reflect the later
+start date.)
+ The date on which the student’s remaining allotment of OPT expires –
+for example, a student who previously used three months of full-time
+pre-completion OPT – will have only nine months of OPT time
+remaining.
+ 14 months after the student’s program end date.
+6.4.
+Can a student apply for OPT prior to his or her program end date and
+continue that employment after the program end date?
+No. See the question on filing for both pre- and post-completion OPT.
+6.5.
+In SEVIS, what distinguishes pre-completion OPT from post-
+completion OPT?
+The program end date distinguishes the two types of OPT. All pre-
+completion OPT takes place prior to the program end date in SEVIS. Post-
+completion OPT begins after the program end date.
+6.6.
+If a student receives an EAD for 12 months of pre-completion OPT
+but finishes his or her course of study early, can the student
+continue to use the EAD issued for pre-completion OPT after the
+program end date?
+No. The EAD was issued for pre-completion OPT. Accordingly, the EAD is
+only valid for OPT prior to the program end date. The student would have
+to stop working on or before the program end date and file a separate
+application for post-completion OPT.
+A student will not lose any unused OPT from the original EAD. The
+student will only lose the OPT completed prior to the program end date.
+So, if a student applied for part-time pre-completion OPT from January 02,
+2008, to January 01, 2009, but finished the course of study on June 1,
+2008, the student would still have nine months of OPT available (the six
+months of part-time OPT used by the student would account for three
+months of the total amount available at that education level).
+6.7.
+Can a student in a graduate-level program who has completed all
+program requirements, aside from thesis or equivalent, apply for
+either pre-completion OPT or post-completion OPT?
+Yes, a student who only has the thesis or equivalent remaining may either
+apply for pre-completion OPT or post-completion OPT while completing
+the thesis/dissertation.
+If a student in this situation applies for pre-completion OPT, he or she:
+ May work full time.
+SEVP Policy Guidance 1004-03
+Update to Optional Practical Training
+ Is not subject to the unemployment provisions, and may receive a
+program extension.
+ May not apply for the 17-month extension from a period of pre-
+completion OPT.
+ Would not be eligible for the cap gap extension of OPT.
+Alternatively, if a student in this situation applies for post-completion OPT,
+he or she:
+ May work full time.
+ Would be eligible for the cap gap extension.
+ May apply for the 17-month extension if otherwise eligible.
+ Would be subject to the unemployment provisions.
+ Would be unable to receive an extension of his or her course of
+study.
+6.8.
+If a student does not complete his or her thesis/dissertation during
+the 12 months of post-completion OPT, what steps must he or she
+take?
+The student should prepare to change status, change education level
+and/or transfer, or depart the country prior to the end of the 60-day grace
+period.
+6.9.
+What happens if a student (excluding those students who have
+completed all program requirements aside from thesis or equivalent)
+applies for post-completion OPT before his or her program end date
+and subsequently fails to complete the requirements for his or her
+program?
+The student should contact his or her DSO immediately for guidance.
+If the employment authorization application has not been adjudicated by
+USCIS, the student may withdraw the application by notifying the Service
+Center where the application was filed. The DSO should also withdraw the
+recommendation for OPT in SEVIS.
+If the employment authorization application has already been approved,
+the DSO should extend the student’s program end date to the appropriate
+date. The student may work part time while enrolled in courses to
+complete the requirements for his or her program and full time during
+breaks and vacations. After successful completion of all the program
+requirements, the student may work full time.
+However, even though the student’s program end date was extended,
+because the OPT was granted as post-completion OPT, the student is
+subject to the 90-day limitation on unemployment.
+SEVP Policy Guidance 1004-03
+Update to Optional Practical Training
+SEVP strongly recommends that a student who may not be able to
+successfully complete all program requirements on time defer applying for
+post-completion OPT until after his or her program ends.
+6.10.
+How does a transfer or change of education level impact the period
+of OPT?
+Any OPT authorization ends on the transfer release date for a student who
+requests a transfer to another SEVP-certified school or a change of
+education level to continue at the same school.
+Top Table of Contents SEVP Home Page Glossary
+7.
+LIMITS ON PERIODS OF UNEMPLOYMENT DURING A PERIOD OF AUTHORIZED
+OPT
+7.1.
+Limits on periods of unemployment
+7.1.1.
+What are the limits on periods of unemployment?
+Students on post-completion OPT may have up to 90 days of
+unemployment.
+Students who have OPT extended due to the cap gap provisions continue
+to accrue unemployment time and are subject to the 90-day limit on
+unemployment.
+Students who receive a 17-month extension are given an additional 30
+days of unemployment for a total of 120 days over their entire post-
+completion OPT period.
+7.1.2.
+Do the limits on unemployment apply to any periods of
+unemployment prior to April 8, 2008?
+No, the limits on unemployment do not apply retroactively.
+7.1.3.
+Do the limits apply to students who had post-completion OPT
+approved before April 8, 2008?
+For students who started post-completion OPT prior to April 8, 2008,
+unemployment time accrues only for time spent unemployed after April 8,
+2008. Time unemployed prior to April 8, 2008, will not be counted.
+7.1.4.
+Is a student who splits OPT between two degrees at the same
+education level limited to a total of 90 days of unemployment?
+No, the student is not limited to a total of 90 days of unemployment in this
+case. For each new period of post-completion OPT, the student will have
+the full 90-day period of unemployment.
+SEVP Policy Guidance 1004-03
+Update to Optional Practical Training
+7.1.5.
+How many hours does a student need to work per week during post-
+completion OPT (including the 17-month extension) to be considered
+employed?
+A student must work at least 20 hours per week in a qualifying position to
+be considered employed. If a student has a variable schedule, within a
+month, it should average out to at least 20 hours per week.
+7.1.6.
+What counts as time unemployed?
+Each day (including weekends) during the period when OPT authorization
+begins and ends that the student does not have qualifying employment
+counts as a day of unemployment. OPT authorization begins on the
+employment start date shown on the student’s EAD.
+[NEW AND/OR REVISED]
+7.1.7.
+If a student does not receive the approved EAD, the missing EAD is
+not returned to the USCIS Service Center, and the student applies for
+a replacement EAD, when does the student begin accruing
+unemployment?
+The “clock” for unemployment starts after issuance of the replacement
+EAD by USCIS.
+[NEW AND/OR REVISED]
+7.1.8.
+How does travel outside the United States impact the period of
+unemployment?
+Time spent outside the United States during an approved period of post-
+completion OPT counts as unemployment against the 90/120-day limits,
+unless the student is either:
+ Employed during a period of leave authorized by an employer; or
+ Traveling as part of his or her employment.
+7.2.
+Employment allowed while on OPT
+7.2.1.
+What types of employment are allowed for regular pre- and post-
+completion OPT?
+All OPT employment, including post-completion OPT, must be in a job that
+is related to the student’s degree program.
+For students who are not on a 17-month extension, this employment may
+include:
+ Multiple employers. A student may work for more than one employer,
+but all employment must be related to the student’s degree program
+and, for pre-completion OPT, can not exceed the allowed per week
+cumulative hours.
+ Short-term multiple employers (performing artists). A student, such
+as a musician or other type of performing artist, may work for
+SEVP Policy Guidance 1004-03
+Update to Optional Practical Training
+multiple short term employers (gigs). The student should maintain a
+list of all gigs, the dates and duration.
+ Work for hire. This is also commonly referred to as 1099
+employment, where an individual performs a service based on a
+contractual relationship rather than an employment relationship. If
+requested by DHS, the student must be prepared to provide
+evidence showing the duration of the contract period and the name
+and address of the contracting company.
+ Self-employed business owner. A student on OPT may start a
+business and be self-employed. The student must be able to prove
+that he or she has the proper business licenses and is actively
+engaged in a business related to the student’s degree program.
+ Employment through an agency or consulting firm. A student on
+post-completion OPT must be able to provide evidence showing he
+or she worked an average of at least 20 hours per week while
+employed by the agency.
+ Paid employment. A student may work part time (at least 20 hours
+per week when on post-completion OPT) or full time.
+ Unpaid employment. A student may work as a volunteer or unpaid
+intern, where this practice does not violate any labor laws. The work
+must be at least 20 hours per week for a student on post-completion
+OPT. A student must be able to provide evidence acquired from the
+student’s employer to verify that the student worked at least 20 hours
+per week during the period of employment.
+[NEW AND/OR REVISED]
+7.2.2.
+What types of employment are allowed for students during a 17-
+month extension of OPT?
+A student authorized for a 17-month extension must work at least 20
+hours per week for an E-Verify employer in a position directly related to his
+or her DHS-approved STEM CIP.
+For a student who is on a 17-month extension, this employment may
+include
+ Multiple employers. A student may work for more than one employer,
+but all employment must be related to his or her degree program and
+all employers must be enrolled in E-Verify.
+ Work for hire. This is also commonly referred to as 1099
+employment, where an individual performs a service based on a
+contractual relationship rather than an employment relationship. The
+company for whom the student is providing services must be
+registered with E-Verify. If requested by DHS, the student must be
+prepared to provide evidence showing the duration of the contract
+period and the name and address of the contracting company.
+SEVP Policy Guidance 1004-03
+Update to Optional Practical Training
+ Self-employed business owner. A student on a 17-month extension
+can start a business and be self-employed. In this situation, the
+student must register his or her business with E-Verify and work full
+time. The student must be able to prove that he or she has the
+proper business licenses and is actively engaged in a business
+related to his or her degree program.
+ Employment through an agency or consulting firm. A student on a
+17-month extension may be employed by an employment agency or
+consulting firm. The employment agency or consulting firm must be
+registered with E-Verify, but the third parties contracting with the
+agency or firm (for which the student is providing services) need not
+be.
+[NEW AND/OR REVISED]
+7.2.3.
+Can a student work multiple jobs during a 17-month extension of
+OPT?
+Yes, but all the employers must be enrolled in E-Verify.
+7.2.4.
+How does a student show that employment is directly related to his
+or her degree program?
+SEVP recommends that the student maintain evidence for each job
+documenting the position held, proof of the duration of that position, the
+job title, contact information for the student’s supervisor or manager, and a
+description of the work.
+If it is not clear from the job description that the work is related to the
+student’s degree, SEVP recommends that the student obtain a signed
+letter from his or her hiring official, supervisor, or manager stating how the
+student’s degree is related to the work performed.
+7.3.
+Reporting employment and unemployment (other than students with
+a 17-month extension)
+7.3.1.
+What should a student report to ensure that his or her status does
+not expire due to excessive unemployment time?
+The student should report changes in employment to his or her DSO as
+soon as possible. SEVP recommends that the student report any change
+within 10 business days of the change to avoid situations where a DHS
+official may determine the student is out of status.
+The following table suggests the best way to report employment or a
+change in employment.
+SEVP Policy Guidance 1004-03
+Update to Optional Practical Training
+Situation
+Report
+New job
+ Name of the employer
+ Start date of employment
+ Mailing address for the employer
+Change to a new job
+ Name of the previous employer
+ Ending date of the employment
+with the previous employer
+ Name of the employer
+ Start date of employment
+ Mailing address for the employer
+Multiple short-term gigs in one
+period with less than 10 days
+between gigs
+ Report at the beginning of the
+first gig and indicate “Multiple
+short term gigs”
+Work for hire (start)
+ Indicate “Self-employed work for
+hire”
+ Indicate the start date of the
+contract
+Work for hire (ending more than
+10 days between the end of one
+contract and the beginning of
+another contract or a new job)
+ Indicate “Self-employed work for
+hire”
+ Indicate you have no current
+contract
+ Ending date of the last contract
+worked
+More than 10 days of
+unemployment
+ Indicate “unemployed”
+ Ending date of last job
+Self-employed business owner
+(start)
+ Indicate “Self-employed business
+owner”
+ Indicated date went into business
+Self-employed business owner
+(end)
+ Indicate “Self-employed business
+owner”
+ Indicate date business closed or
+student no longer worked for the
+business full time
+SEVP Policy Guidance 1004-03
+Update to Optional Practical Training
+Situation
+Report
+Student decides to exit the
+United States and complete his
+or her F-1 status prior to the end
+date of OPT
+ Indicate “Completing OPT and
+exiting the United States”
+ Date of exit
+7.3.2.
+How should a student report employment/unemployment information
+and changes to that information to his or her DSO?
+The student should consult with his or her DSO about the preferred
+method of reporting changes. SEVP recommends using e-mail, as it
+provides both evidence of reporting and the date reported. Some schools
+may provide other electronic means (such as a Web page) to accept
+reports.
+The student should keep a record of all reports made to the DSO and the
+method by which the reports are made.
+7.3.3.
+How should DSOs report periods of employment in SEVIS?
+From the Student Information screen in SEVIS, click the OPT Request link
+to display the OPT Employment screen. On this screen, click the Edit link.
+This will allow DSOs to update employer information.
+Situation
+Employer Name Field
+Employer
+Address Field
+New job
+Name of the employer [start date
+mm/dd/yyyy]
+Example:
+ABC Inc. [04/15/2010]
+Employer
+address supplied
+by student
+Change to a
+new job (less
+than 10 days
+between jobs)
+Name of the new employer [start
+date mm/dd/yyyy]
+Example:
+A New Job, Inc. [06/15/2010]
+New employer’s
+address supplied
+by student
+More than 10
+days of
+unemployment
+Unemployed [ending date of last job
+mm/dd/yyyy]
+Example:
+Unemployed [07/12/2010]
+Leave blank
+Multiple short-
+term gigs in
+one period
+Multiple gigs [start date]
+Leave blank
+SEVP Policy Guidance 1004-03
+Update to Optional Practical Training
+Situation
+Employer Name Field
+Employer
+Address Field
+Work for hire
+(start)
+Work for hire [start date mm/dd/yyyy]
+Leave blank
+Work for hire
+(end)
+Unemployed [end date of last
+contract mm/dd/yyyy]
+Leave blank
+Self-employed
+business
+owner (start)
+Self-employed business owner [date
+started business mm/dd/yyyy]
+Business
+address
+Self-employed
+business
+owner (end)
+Unemployed [date business closed
+or student no longer worked for
+business full time mm/dd/yyyy]
+Leave blank
+Student
+decides to exit
+the United
+States and
+complete his
+or her F-1
+status prior to
+the end date
+of OPT
+No change
+Complete the student’s record — this
+will stop the accrual of
+unemployment time
+No change
+7.4.
+Consequences of exceeding the period of unemployment
+7.4.1.
+How should a DSO advise a student who is close to reaching the
+limit on authorized unemployment?
+The DSO should advise the student of the options available upon reaching
+the limit and on the potential problems associated with violating status by
+exceeding the period of authorized unemployment. To avoid violating
+status, prior to reaching the limit on authorized unemployment the student
+should prepare to transfer to another SEVP-certified school, change
+education level, depart the United States, or take action to otherwise
+maintain status in the United States.
+7.4.2.
+What is the effect on a student’s status if the student exceeds the
+period of unemployment?
+A student who has exceeded the period of unemployment while on post-
+completion OPT has violated his or her status unless he or she has taken
+one of the following actions:
+ Applied to continue his or her education by a change of education level
+or transferring to another SEVP-certified school
+ Departed the United States
+SEVP Policy Guidance 1004-03
+Update to Optional Practical Training
+ Taken action to otherwise maintain legal status
+7.4.3.
+Is a DSO responsible for determining if a student has exceeded the
+limit of unemployment time while on OPT?
+No, a DSO is not responsible for calculating unemployment time or taking
+action in SEVIS based on unemployment time. If a student’s SEVIS record
+remains in Active status and the student has otherwise maintained F-1
+status, the DSO should consider the student in status and act accordingly.
+DHS maintains responsibility for determining whether a student has
+violated his or her status by exceeding the permissible limit on authorized
+unemployment.
+7.4.4.
+How will DHS enforce this provision?
+A student may be denied future immigration benefits that rely on the
+student’s valid F-1 status if DHS determines that the student exceeded the
+limitations on unemployment.
+Additionally, ICE/SEVP may examine SEVIS data for an individual, a
+selected group or all students on post-completion OPT and terminate a
+student’s record if it fails to show that the student maintained the proper
+period of employment. In such cases, the student will be given an
+opportunity to show that he or she complied with all OPT requirements,
+including maintaining employment.
+Top Table of Contents SEVP Home Page Glossary
+8.
+17-MONTH EXTENSION OF OPT FOR F-1 STUDENTS W ITH A STEM CIP
+APPROVED BY DHS
+8.1.
+Eligibility
+8.1.1.
+Who is eligible for the 17-month extension?
+An F-1 student who has completed a bachelor’s, master’s, or doctoral
+degree in a STEM CIP that is approved by DHS for the 17-month
+extension and is currently engaged in post-completion OPT may apply for
+the 17-month extension if he or she has a job or job offer from an E-Verify
+employer.
+8.1.2.
+How does a student or DSO know which CIPS are designated as
+STEM CIPs approved by DHS for the 17-month extension?
+The list of STEM CIPS accepted for the 17-month extension by DHS was
+in the preamble to the IFR (see 73 CFR 18948). Updates to the list have
+been posted on the Immigration and Customs Enforcement (ICE) Web site
+at
+SEVP Policy Guidance 1004-03
+Update to Optional Practical Training
+8.1.3.
+Can a student with a dual major qualify for the 17-month extension
+based on one of the degree programs?
+Yes, if the student’s course of study is listed as one of the approved CIP
+codes on the STEM Designated CIP List approved by DHS for the 17-
+month extension and any job worked while on the 17-month extension is
+related to the student’s STEM CIP. However, the CIP Code for the
+student’s secondary major will not print on the Form I-20 recommending
+the 17-month extension. The DSO must annotate the Form I-20 with the
+proper CIP Code of the secondary major. The post-completion OPT that
+the student seeks to extend must be based on a bachelor’s, master’s or
+doctorate degree that is on the STEM CIP List approved by DHS for the
+17-month extension and which is documented on the student’s current
+Form I-20 with an appropriate CIP code. If a student has a double major
+and obtained regular post-completion OPT on the non-STEM CIP or a
+STEM CIP that is not approved by DHS, the student is ineligible for the
+17-month extension.
+8.1.4.
+Can a student qualify for the 17-month extension based on the
+student’s minor?
+No.
+8.1.5.
+Can a student who has previously earned a degree in a STEM CIP
+approved by DHS for the 17-month extension and has now earned a
+non-STEM CIP or a STEM CIP not approved by DHS for the 17-month
+extension apply for the extension?
+No, the 17-month extension must be based on the same degree as the
+post-completion OPT.
+8.1.6.
+Are programs of study with CIP codes ending in “99” eligible for the
+17-month extension?
+No, as indicated in the IFR, they are not considered STEM CIPs.
+8.1.7.
+What can a student do if his or her course of study has a CIP code
+ending in “99” thus making the student ineligible for the 17-month
+extension?
+A student enrolled in a course ending in “99” should contact the DSO and
+present clear arguments, with supporting evidence, requesting the
+institution change the course of study CIP code from “99” to a CIP code
+listed on NCES Web site at
+and approved by DHS for
+the 17-month extension.
+The DSO should review the student's request and handle the request in
+accordance with the school’s standard procedure. If a school official
+wishes to pursue the change, then he or she must work with NCES to
+reclassify the program or create a new CIP code for the course of study.
+SEVP Policy Guidance 1004-03
+Update to Optional Practical Training
+If NCES approves the CIP code change, a student may apply for the 17-
+month extension based on the new CIP code.
+8.1.8.
+How can someone suggest a change to the STEM CIPS approved by
+DHS for the 17-month extension?
+To suggest a change to the list of STEM CIPS approved by DHS for 17-
+month extension, write to sevis.source@dhs.gov, with STEM Code
+Change Request in the subject line. Please include your name, phone
+number, organizational affiliation, the code(s) you would like to see added
+and the rationale for the addition. Change requests will be reviewed by
+DHS in conjunction with the Department of Education, the National
+Science Foundation and other interested government agencies.
+[NEW AND/OR REVISED]
+8.2.
+Filing for the 17-month extension of OPT
+8.2.1.
+What are the DSO’s responsibilities when recommending a 17-month
+extension for a student?
+Before recommending a 17-month extension in SEVIS, a DSO must
+confirm that
+ The student’s education level shown in SEVIS is bachelor’s, master’s,
+or doctoral.
+ The name of the student’s major shown in SEVIS is on the STEM CIP
+List approved by DHS for a 17-month extension.
+ SEVIS shows the student is on an approved period of OPT that has not
+expired.
+ The employer name and address entered into SEVIS are entered
+exactly as provided by the student.
+While the DSO must ensure that the student knows that he or she must
+work for an E-Verify employer, the DSO is not responsible for verifying an
+employer’s registration with E-Verify.
+Note that the extension application of a student who is ineligible for an
+extension will be denied and the application fee will not be refunded.
+8.2.2.
+When does the student need to file for the extension?
+The student must ensure that the Form I-765, supporting evidence and fee
+payment reach the proper USCIS Service Center before his or her current
+OPT expires. USCIS recommends that students file within 90 and 120
+days of the expiration date of the current OPT.
+8.2.3.
+Can a student apply for the 17-month extension when he or she is
+within a period of cap gap extension?
+Yes, a student can apply for the 17-month extension during the cap gap
+extension of OPT. The student will need to have his or her employer
+request the withdrawal of the approved or pending H-1B petition in time for
+SEVP Policy Guidance 1004-03
+Update to Optional Practical Training
+USCIS to effectively accept the withdrawal prior to the October 1 start date
+in order to avoid changing status to H-1B on that date.
+To avoid a denial based on the scheduled expiration of post-completion
+OPT, the student should include mention (and supporting evidence) of his
+or her cap gap 17-month extension when filing during the cap gap period.
+8.2.4.
+What are the DSO’s responsibilities for assisting a student who is
+filing for a 17-month extension?
+The DSO must verify the student’s eligibility for the extension, make the
+recommendation in SEVIS (if the school supports the student’s request)
+and print a Form I-20 showing the recommendation.
+8.2.5.
+How and where does the student for file the extension?
+The student should follow the directions published on the USCIS Web site
+for filing a Form I-765, Application for Employment Authorization. The
+student should file with the USCIS Service Center serving the area of the
+student’s current residence.
+8.2.6.
+What is the fee for the application for the 17-month extension?
+The fee is the current amount for filing a Form I-765, Application for
+Employment Authorization, as listed on the USCIS Web site. At the time
+this guidance was published, the fee was $340.
+8.2.7.
+What if the DSO believes the student is eligible for the extension but
+SEVIS does not show the link needed to request the extension?
+The DSO should contact the SEVIS help desk at (800) 892-4829 and
+request a data fix.
+8.2.8.
+If a student requests a recommendation from a DSO for the 17-month
+extension, and that request requires a data fix because the student
+originally applied for pre-completion OPT prior to the April 2008 rule,
+will SEVP still process the data fix if it has not been completed by the
+time the original 12-month OPT authorization ends?
+Yes. SEVP will process the data fix. We recommend that the student file
+the Form I-765 with USCIS before the end of the original OPT with an
+explanation of the circumstances if the data fix has not been completed.
+When the data fix is completed, the DSO can make the recommendation
+for the 17-month extension and provide the student with the updated Form
+I-20. The student can submit the updated Form I-20 with a copy of the
+USCIS receipt notice for the Form I-765 so that the USCIS Service Center
+can add the Form I-20 to the pending application.
+8.2.9.
+If the extension link shows in SEVIS, does this indicate the student is
+eligible for the 17-month extension?
+No, the link is available for all students currently participating in post-
+completion OPT. The DSO must verify the individual student’s eligibility for
+the 17-month extension.
+SEVP Policy Guidance 1004-03
+Update to Optional Practical Training
+8.2.10.
+What documents will meet the USCIS requirements on the Form I-765
+for a copy of the student’s degree?
+The student may provide one of the following documents in order to meet
+these requirements:
+ Official transcripts
+ Unofficial transcripts
+ Copy of the diploma showing the education level and course of study
+8.2.11.
+In Item 17 of the Form I-765, what should the student list as the
+degree?
+The student should list degree type as it is shown on his or her Form I-20.
+In addition, the CIP Code for the student’s course of study will be printed
+on page 3 of the Form I-20. The USCIS adjudicator will verify that the
+student’s course of study is on the STEM CIP List approved by DHS for
+the 17-month extension.
+If a student with a dual major has the DHS-approved STEM CIP listed as
+the secondary major in SEVIS, the DSO must annotate this on the Form I-
+20 that the student will submit to USCIS. The student should provide the
+CIP Code for the secondary major on the Form I-765.
+8.3.
+E-Verify
+8.3.1.
+Is there a resource list of employers who are enrolled in the E-Verify
+program?
+No, there is no public list of employers enrolled in E-Verify.
+8.3.2.
+How do employers enroll in E-Verify?
+The USCIS Web site has information on E-Verify and the enrollment
+procedures at www.uscis.gov/everify.
+8.3.3.
+What does the student need to know about the employer in order to
+complete the Form I-765 when applying for the 17-month extension?
+The student must have the employer’s name as listed in E-Verify and the
+employer’s E-Verify company identification number or a valid E-Verify
+client company identification number. This information must be listed in
+item 17 of the Form I-765.
+8.3.4.
+Is the DSO responsible for verifying that the student is working for
+an E-Verify employer?
+No, a USCIS adjudicator will make this determination by verifying the
+information in Item 17 of the student’s Form I-765.
+SEVP Policy Guidance 1004-03
+Update to Optional Practical Training
+8.4.
+Employment authorization while the 17-month extension application
+is pending
+8.4.1.
+When does the student’s period of 17-month extension start?
+If the student has properly filed, the student’s period of 17-month
+extension starts the day after the expiration of the student’s original period
+of OPT.
+The student must comply with all the requirements for students with a 17-
+month extension.
+8.4.2.
+Can the student work with an expired employment authorization
+document while a 17-month extension of OPT is pending?
+Yes. 8 CFR 214.2(f)(11)(i)(C) and 8 CFR 247a.12(c)(6)(iv) automatically
+extend the student’s work authorization for up to 180 days while the
+student’s 17-month extension application is pending.
+8.4.3.
+Can the student change employers while the 17-month extension
+application is pending?
+Yes. However, if the 17-month extension period has started, the employer
+must also be an E-Verify employer. The student must report the change in
+employment to his or her DSO. The DSO must update the student’s
+employer information in SEVIS and the student should submit an
+amended Form I-765 to the appropriate USCIS Service Center, providing
+the new employer’s E-Verify number and a copy of the USCIS receipt
+notice for the first Form I-765. A brief letter explaining the submission
+should also be included. There is no fee associated with submitting the
+amended Form I-765.
+8.4.4.
+Can the student travel outside of the United States if his or her
+employment authorization document expires and the 17-month
+extension request is pending?
+No, the student must wait to receive the new employment authorization
+document.
+8.5.
+Can a student change employers during the 17-month extension?
+Yes, however, the employer must also be an E-Verify employer. The
+student must report the change in employment to his or her DSO.
+8.6.
+How do employers report to a DSO that a 17-month extension
+student is no longer employed?
+The school must provide the student with information on how to report the
+end of the student’s employment. The student must provide this
+information to the employer. If the school does not provide alternative
+instructions, the employer may send the report to the school address listed
+on the student’s Form I-20.
+SEVP Policy Guidance 1004-03
+Update to Optional Practical Training
+The employer should provide the student’s name, SEVIS ID number (if
+available), and the date that the student’s employment ended.
+8.7.
+Student responsibilities while on 17-month extension
+A student pursuing a period of 17-month extension must
+ Work in a paid position for an E-Verify employer at least 20 hours per
+week
+ Work in a position related to the STEM CIP approved by DHS for the
+17-month extension
+ Report to his or her DSO within 10 days of:
+ Legal name changes
+ A change in residential or mailing address
+ Changes in employer, giving the employer name and employer
+address
+ Loss of employment
+ Send the DSO a validation report every six months, starting from the
+date the 17-month extension starts and ending when the student’s F-1
+status ends or the 17-month extension ends, whichever is first. The
+validation report must include the student’s
+ Full legal name
+ SEVIS identification number (if requested by the school)
+ Current mailing and residential address
+ Name and address of the current employer
+ Date the student began working for the current employer
+A student pursuing a period of 17-month extension must not
+ Work in a paid position for any employer that is not an E-Verify
+employer
+ Have more than 120 days of unemployment time during the entire
+period of post-completion OPT (regular post-completion OPT and 17-
+month extension).
+8.8.
+DSO responsibilities relating to a student granted a 17-month
+extension of OPT
+The DSO must update SEVIS with information on changes to the student’s
+name and address, and changes in the student’s employer (including
+name changes) and address.
+This chart shows how to enter the reported information into SEVIS.
+SEVP Policy Guidance 1004-03
+Update to Optional Practical Training
+Situation
+Employer Name Field
+Employer
+Address Field
+New job
+Name of the employer [start date
+mm/dd/yyyy]
+Example:
+ABC Inc. [04/15/2010]
+Employer
+address supplied
+by student
+Change to a
+new job (less
+than 10 days
+between jobs)
+Name of the new employer [start
+date mm/dd/yyyy]
+Example:
+A New Job, Inc. [06/15/2010]
+New employer’s
+address supplied
+by student
+More than 10
+days of
+unemployment
+Unemployed [ending date of last job
+mm/dd/yyyy]
+Example:
+Unemployed [07/12/2010]
+Leave blank
+Top Table of Contents SEVP Home Page Glossary
+9.
+CAP GAP AUTOMATIC EXTENSION FOR F-1 STUDENTS WHO ARE THE SUBJECT
+OF AN H-1B PETITION
+9.1.
+Basic provisions
+The eligibility date is the date a USCIS Service Center receives a properly
+filed Form I-129 Petition for a Nonimmigrant Worker naming the student
+as a beneficiary of the petition from the prospective employer.
+The cap gap extension starts when a student’s current period of F-1 status
+ends, regardless of whether the student was in a period of OPT. However,
+if the student was not in a period of authorized post-completion OPT on
+the eligibility date, the extension of status starts on the day after the
+student’s initial grace period expires.
+9.1.1.
+What determines the length of the cap gap extension?
+The following chart shows how the length of the cap gap extension is
+determined.
+Events Impacting the Length of the Cap Gap Extension
+The Petition
+Naming the
+Student:
+Impact on Cap gap
+OPT
+Impact on F-1
+Status
+Extension
+Request
+Needed
+Action
+Required by
+Student
+Action
+Required by
+DSO
+SEVP Policy Guidance 1004-03
+Update to Optional Practical Training
+The Petition
+Naming the
+Student:
+Impact on Cap gap
+OPT
+Impact on F-1
+Status
+Extension
+Request
+Needed
+Action
+Required by
+Student
+Action
+Required by
+DSO
+Is properly
+filed
+OPT extended to the
+June 1, 2010,
+(beyond the date
+announced by
+USCIS as the likely
+date for the end of
+the initial receipting
+period)
+F-1 status
+extended to
+August 2, 2010
+Yes
+Must send a
+request for the
+extension to
+DSO with proof
+of proper filing
+(see note 1)
+Request a data
+fix from the
+SEVIS help
+desk in
+response to
+student’s
+request (see
+note 1)
+Is not
+selected for
+receipting
+No additional
+extension
+No additional
+extension
+N/A
+None
+None
+Is selected
+for wait-
+listing –
+There will
+not be a
+waitlist
+utilized as a
+part of the
+FY 2011
+H1B Cap
+filing
+process
+OPT authorization is
+extended to XXX XX,
+XXXX (allowing the 8
+weeks USCIS
+expects to need
+before receipting or
+returning the
+application)
+F-1 status is
+extended to
+XXX XX,
+XXXX
+Yes
+Must send a
+request for the
+extension to
+DSO with proof
+that the petition
+was wait-listed
+(see note 2)
+Update
+student’s
+SEVIS record
+under the Cap
+Gap Extension
+link to indicate
+an H-1B
+petition has
+been waitlisted
+(see note 2)
+Is selected
+for
+receipting
+OPT authorization is
+extended to
+September 30
+The student’s
+record
+completes on
+September 30,
+ending the
+nonimmigrant’s
+F-1 status
+No, SEVIS
+will use
+the data
+from
+CLAIMS
+Student may
+request the
+DSO print a
+Form I-20
+showing the
+extension
+Print updated
+Form I-20 as
+requested
+Is withdrawn
+or denied
+OPT authorization
+ends 10 days after
+the date of the
+withdrawal or denial
+Grace period
+ends 60 days
+after the date
+of the
+withdrawal or
+denial
+No, SEVIS
+will use
+the data
+from
+CLAIMS
+Student must
+terminate OPT
+on the proper
+date and either
+the leave the
+United States
+upon expiration
+of the grace
+period or take
+other steps to
+maintain status
+None
+Note 1: If a student’s regular period of OPT extends to June 1, the student does not need to make the
+request.
+Note 2: If a student’s regular period of OPT extends to July 27, the student does not need to make the
+request.
+SEVP Policy Guidance 1004-03
+Update to Optional Practical Training
+9.1.2.
+If a student was not in an authorized period of OPT on the eligibility
+date, can the student work during the cap gap extension?
+No, in order for a student to have employment authorization during the cap
+gap extension, the student must be in an approved period of OPT on the
+eligibility date.
+9.1.3.
+Does a student need to file an application or pay a fee to receive a
+cap gap extension?
+No, the extension is granted automatically at no cost. However, as noted
+on the chart of events impacting the length of the cap gap extension, the
+student may need to notify the DSO of his or her eligibility for extensions
+prior to the date USCIS issues a receipt for the H-1B petition listing the
+student as a beneficiary.
+It is important to note that, although the extension is automatically granted,
+SEVIS may not be automatically updated to show the extension. A student
+is responsible for checking with his or her DSO and verifying that his or
+her SEVIS record has been updated with the extension. See the section
+on how students will know they have a cap gap extension.
+9.1.4.
+What is the length of the cap gap extension?
+For a student with active post-completion OPT, the cap gap extension for
+both employment and F-1 status starts the date the student’s original OPT
+expires and ends September 30 unless the H-1B petition for the student is
+rejected, denied, or withdrawn. In that case, the employment authorization
+ends and the grace period begins.
+For a student whose post-completion OPT expired prior to the filing date
+of the H-1B petition, the cap gap extension starts at the end of his or her
+grace period and ends September 30 unless the H-1B petition for the
+student is rejected, denied, or withdrawn. However, the student will not
+have work authorization.
+Due to the complexities involved, a student will receive cap gap
+extensions in increments, as the petition goes through the steps of filing,
+receipting, and adjudication.
+9.1.5.
+Can the cap gap extension of OPT be extended beyond
+September 30 if the H-1B petition filed on the student’s behalf has
+not been adjudicated by USCIS?
+No, pursuant to 8 CFR 214.2(f)(5)(vi)(A), the duration of status and any
+employment authorization granted under 8 CFR 274a.12(c)(3)(i)(B) and
+(C) of an F-1 student who is the beneficiary of an H-1B petition and
+request for change of status can only be extended until October 1.
+If the H-1B petition is pending beyond October 1, a student can remain in
+the United States based on the pending change of status petition.
+However, a student with OPT employment authorization extended through
+the cap gap period must stop working until the H-1B petition is approved.
+SEVP Policy Guidance 1004-03
+Update to Optional Practical Training
+9.1.6.
+Will a student receive personal notification when he or she has a cap
+gap extension?
+A student will not automatically receive notification when he or she has a
+cap gap extension. The student must request a Form I-20 from his or her
+DSO showing the period of the extension. In some cases, the student may
+need to notify his or her DSO that he or she is eligible for the extension.
+9.1.7.
+How will a student know he or she has a cap gap extension?
+The student must remain in contact with the employer that filed the Form I-
+129 Petition for a Nonimmigrant Worker on his or her behalf and with his
+or her DSO.
+Until USCIS issues receipt notices, only the petitioning employer will know
+when the application was properly filed or wait listed. The student may
+obtain evidence from the employer for either of these two events and ask
+the DSO to request a data fix from SEVP.
+When USCIS has receipted an H-1B petition, the information is entered
+into the Computer Linked Application Information Management System
+(CLAIMS, the system used by the USCIS Service Centers) and will be
+used to update SEVIS. However, there are some cases where the data
+from the interface does not properly update SEVIS. A student is
+responsible for checking with his or her DSO and verifying that his or her
+SEVIS record has been updated with the extension.
+9.1.8.
+How will a student know if his or her cap extension is terminated
+before September 30 due to a withdrawn or denied H-1B petition?
+A student will not be personally notified by DHS of a withdrawn or denied
+H-1B petition. He or she must remain in contact with the sponsoring
+employer and with his or her DSO. It is the student’s responsibility to
+check regularly on his or her status.
+9.2.
+Proof of the extension of status and work authorization
+9.2.1.
+What proof will a student have that he or she is entitled to the
+extension of work authorization and status?
+Using SEVIS, DSOs can print a Form I-20, which shows the dates of
+continued F-1 status and employment authorization.
+This functionality was introduced in SEVIS 5.10, which SEVP released in
+August 2008. This upgrade allows the system to automatically update a
+student’s SEVIS record with the F-1 status and employment authorization
+information.
+9.2.2.
+What information appears on the Form I-20 if an F-1 student is
+eligible for the cap gap extension of F-1 status and OPT?
+If the F-1 student has an approved current or future post-completion OPT
+on the date the pending or approved change of status request to H-1B is
+received from CLAIMS, SEVIS will be updated with the following:
+SEVP Policy Guidance 1004-03
+Update to Optional Practical Training
+F-1 status and employment authorization for this student have been
+automatically extended to September 30, [current year]. The
+student is authorized to remain in the United States and continue
+employment with an expired employment authorization document.
+This is pursuant to 8 CFR 214.2(f)(5)(iv) and 8 CFR
+274a.12(b)(6)(iv), as updated April 8, 2008, in a rule published in
+the Federal Register (73 FR 18944). Additional information about
+the automatic extension can be found on the Student and
+Exchange Visitor Program Web site at www.ice.gov/sevis.
+Also, the Employment End Date of the approved current or future post-
+completion OPT will be updated to September 30, [current year].
+9.2.3.
+What appears on the Form I-20 if an F-1 student is eligible for the cap
+gap extension of F-1 status but not OPT?
+If an F-1 student does not have an Approved current or future post-
+completion OPT on the date the pending or approved change of status
+request to H-1B is received from CLAIMS, SEVIS will be updated with the
+following:
+F-1 status for this student has been automatically extended to
+September 30, [current year]. The student is authorized to remain
+in the United States. This is pursuant to 8 CFR 214.2(f)(5)(iv) and 8
+CFR 274a.12(b)(6)(iv), as updated April 8, 2008, in a rule published
+in the Federal Register (73 FR 18944). Additional information about
+the automatic extension can be found on the Student and
+Exchange Visitor Program Web site at www.ice.gov/sevis.
+9.3.
+Issues with SEVIS and the cap gap extension
+9.3.1.
+What if SEVIS does not show that an eligible student’s work
+authorization and status have been extended?
+A student is responsible for checking with his or her DSO and verifying
+that his or her SEVIS record has been updated with the extension. SEVIS
+Release 6.0 allows a DSO to add the cap gap extension if a student is the
+beneficiary of a properly filed (prior to receipting by USCIS) or waitlisted
+H-1B petition. If a student is the beneficiary of a receipted or approved H-
+1B petition, and the student’s SEVIS record does not properly reflect his or
+her status, the student should ask the DSO to request a data fix and
+provide the DSO with a copy of the receipt (Form I-797) and/or the receipt
+number.
+9.3.2.
+What are the responsibilities of the DSO for ensuring that SEVIS
+properly shows the student has a cap gap extension?
+DSOs are responsible for
+ Providing status information in response to a student’s request
+ Requesting a data fix by calling SEVIS help desk at (800) 892-4829 and
+forwarding evidence provided by the student
+SEVP Policy Guidance 1004-03
+Update to Optional Practical Training
+DSOs are not responsible for initiating any actions in connection with the
+cap gap extensions.
+9.4.
+Student responsibilities during the cap gap extension
+9.4.1.
+If a student is eligible for the cap gap extension, can he or she
+continue to work while SEVP is updating the student’s SEVIS record
+with the extension?
+Yes, if a student is eligible for the cap gap extension, he or she can
+continue to work while the update is being processed by SEVP. The
+updated Form I-20 is only intended to provide a student with proof of the
+cap gap extension. The extension itself is automatic, based on the
+pending or approved H-1B petition.
+9.4.2.
+Can a student travel outside the United States during a cap gap
+extension period and return in F-1 status?
+Yes, provided the student has a valid EAD. See 8 CFR 214.2(f)(13). A
+student may choose to leave the United States and obtain an H-1B visa to
+return to the United States to assume H-1B employment.
+SEVP recommends that a student not travel outside the United States
+during the cap gap extension, if possible, as USCIS will consider a
+change-of-status application to be abandoned if the applicant leaves the
+country while the application remains pending. Thus, a change-of-status
+petition from F-1 to H-1B filed on behalf of a student with a cap gap
+extension who departs the United States before the application is
+adjudicated could be denied.
+9.4.3.
+Do the limits on unemployment time apply to a student with a cap
+gap extension?
+Yes, the 90 day limitation on unemployment continues during the cap gap
+extension.
+9.4.4.
+What does a student on a cap gap extension need to report to his or
+her DSO?
+As with all students on post-completion OPT, the student must report any
+change of address within 10 days, any legal name change and
+interruptions of employment. See 8 CFR 214.2(f)(12),(17).
+In addition the student should follow directions in the section on what
+students should report to ensure that his or her status does not expire due
+to excessive unemployment time.
+9.4.5.
+What are the restrictions on the type of employment for a student
+with a cap gap OPT?
+See the section on acceptable post-completion OPT employment.
+SEVP Policy Guidance 1004-03
+Update to Optional Practical Training
+Top Table of Contents SEVP Home Page Glossary
+10.
+REPORTING FOR A STUDENT ON POST-COMPLETION OPT
+Students on all types of post-completion OPT — regular, cap gap
+extension or 17-month extension — have reporting obligations.
+All must report any change of address within 10 days, any legal name
+change and interruptions of employment.
+A student with regular OPT or a cap gap extension should see directions
+in the section on what students should report to ensure that his or her
+status does not expire due to excessive unemployment time.
+A student with a 17-month extension should follow the directions in the
+section on responsibilities for students with a 17-month extension.

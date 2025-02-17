@@ -1,0 +1,117 @@
+Planning Tool for Post-Completion Optional Practical Training
+Has the student been authorized for full-time CPT at the current level of study?
+If NO, skip to Step 2.
+Full-time CPT Summary
+Total days of full-time CPT used:
+Note: student is not eligible for OPT if this total equals 365 days or more.
+Has the student been authorized for any OPT at the current level of study?
+If NO, skip to Step 3.
+OPT Summary
+Days of OPT available per level:
+Days of OPT used:
+Available OPT:
+Enter the program end date on the Form I-20:
+The earliest date the Form I-765 can be filed with USCIS:
+The last date the DSO can recommend OPT in SEVIS:
+Form I-765 must be filed with USCIS by:
+Post-completion OPT must begin between:
+and
+Complete this worksheet to see an approximate timeline to file for post-completion OPT. When you enter
+specific dates, the spreadsheet will show allowed/remaining OPT totals. The six steps focus on different
+parts of the OPT application process.  Scroll down to complete all six steps.
+Note: a student is not be eligible for OPT if:
+◼Level of study is English Language
+◼Level of study is High School (unless at a conservatory)
+◼Has not finished one academic year of full-time study prior to preferred OPT start date
+Step 1:  Determine Amount of Full-Time Curricular Practical Training
+STEP 2: Calculate Available Post-Completion OPT
+STEP 3: Determine General Time Limits and Deadlines on Post-
+Completion OPT Application Based on Program End Date
+If Yes, click here to record periods of  approved full-time CPT.
+If Yes, click here to record periods of approved OPT.
+This tool is for planning purposes only and does not guarantee
+approval of OPT by preferred OPT start date.
+Planning Tool for Post-Completion OPT - Page 2
+Enter the number of calendar days it takes a DSO at your school to process an OPT request.
+Estimated number of DSO processing days:
+Enter the processing time in the appropriate column below.
+Months*
+Weeks
+Days
+Total USCIS processing time (in days):
+*Calculation based on 1 month = 30 days
+Note: OPT Start date must be between:
+and
+Enter preferred OPT start date:
+Note: requested OPT end date must be on or before:
+Enter preferred OPT end date:
+Last date to request OPT from DSO and allow for processing/mailing times:
+Estimated dates DSO enters OPT in SEVIS, given DSO processing time*:
+Estimated date USCIS receives Form I-765 and supporting documents:
+Estimated date USCIS completes processing OPT application:
+Estimated date student gets Employment Authorization Document*:
+*Assumes an additional 10-day mailing period.
+STEP 4: Get DSO and USCIS Processing Times
+Look up the Form I-765 porocessing times for F-1 employment at the USCIS Service Center where
+Click here to access USCIS processing times.
+STEP 5: Choose OPT Start Date
+Enter the preferred start and end dates for post-completion OPT.
+Note: When the preferred OPT start date is entered, the latest available OPT end date displays.
+To improve the chances of having post-completion OPT approved by the preferred OPT start
+date, keep the following date recommendations in mind:
+Note: This schedule does not guarantee USCIS approval of OPT by the  preferred OPT start date. It is
+simply a planning tool.
+This tool is for planning purposes only and does not guarantee
+approval of OPT by preferred OPT start date.
+Planning Tool for Post-Completion OPT - Page 3
+Enter the date the DSO recommended  OPT:
+Note: USCIS must receive Form I-765 by:
+STEP 6: Determine Form I-765 Filing Deadline Based on the Date the
+DSO Recommends OPT in SEVIS
+Complete this step after the DSO has recommended OPT in SEVIS. Form I-765 must be received by
+USCIS within 30 days from the date the DSO entered the OPT request into SEVIS. USCIS will deny it if
+it is received later.
+Note: When the  date the DSO requested OPT is entered below, the deadline for filing Form I-765
+This planning tool for post-completion OPT is not a substitute for applicable legal requirements, nor is it
+itself a rule or a final action by SEVP. It is not intended to, does not, and may not be relied upon to create
+any right or benefit, substantive or procedural, enforceable at law by any party in any administrative, civil,
+This tool is for planning purposes only and does not guarantee
+approval of OPT by preferred OPT start date.
+Planning Tool for Post-Completion OPT - Page 4
+Periods of Approved Full-Time CPT
+Enter the start and end dates for all periods of full-time CPT  used at the current level of study.
+Start Date
+End Date
+Length in
+Days
+Start Date
+End Date
+Length in
+Days
+Total:
+Total:
+This tool is for planning purposes only and does not guarantee
+approval of OPT by preferred OPT start date.
+Planning Tool for Post-Completion OPT - Page 5
+Part-Time OPT
+Full-Time OPT
+Start Date
+End Date
+Length in
+Days
+Start Date
+End Date
+Length in
+Days
+Total:
+Total:
+Full-Time Equivalent:
+Periods of Approved OPT
+Enter the start and end dates for all periods of approved part-time and approved full-time OPT
+used at the current level of study. Students: Use the dates from the EAD. DSOs: Use Actual OPT
+start and ends dates in SEVIS.
+This tool is for planning purposes only and does not guarantee
+approval of OPT by preferred OPT start date.
+Planning Tool for Post-Completion OPT - Page 6
+This tool is for planning purposes only and does not guarantee
+approval of OPT by preferred OPT start date.

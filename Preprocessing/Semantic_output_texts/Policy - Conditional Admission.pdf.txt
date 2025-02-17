@@ -1,0 +1,78 @@
+SEVP Policy Guidance S13.1: Conditional Admission
+Issue Date: July 13, 2016
+Effective Date: July 13, 2016
+Supersedes: N/A
+Status: Final
+Applicable to: 8 CFR 214.3(k)
+Purpose/Background: This guidance interprets the Form I-20, “Certificate of Eligibility for
+Nonimmigrant Status,” issuance regulation for prospective F-1 and M-1 students1
+(8 CFR 214.3(k)) to guide SEVP adjudicators.
+Attachments: None.
+Definitions:
+1. Conditional admission. An agreement between a school and a student to tentatively admit
+the student into a program of study for which the student does not meet all standards for
+admission. This agreement is contingent upon the student successfully meeting a
+school-specified set of supplemental conditions intended to fully qualify the student for the
+program.
+2. Standards for admission. A set of established criteria that a prospective student must meet
+in order to gain admittance unconditionally to a program of study at a school.2
+Acronyms:
+1. CFR. Code of Federal Regulations
+2. DSO. Designated school official
+3. SEVIS. Student and Exchange Visitor Information System
+4. SEVP. Student and Exchange Visitor Program
+Policy:
+1. Prohibition of Form I-20 issuance. SEVP regulation prohibits the issuance of a Form I-20
+based on conditional admission. DSOs can only issue a Form I-20 when students have met all
+1 This guidance pertains only to F-1 and M-1 students, not F-2 or M-2 dependents. All use of the term “student(s)”
+in the guidance refers to F-1 and M-1 student(s).
+2 School officials must report admission requirements on the school’s Form I-17, “Petition for Approval of School
+for Attendance by Nonimmigrant Student.”
+Policy Guidance S13.1
+Conditional Admission
+standards for admission for the program of study listed on the Form I-20.3 These standards
+for admission include any English proficiency requirements.
+2. Form I-20 issuance. DSOs must correctly issue a Form I-20, including completion of the
+English proficiency field, with the DSO’s signature under the “School Attestation” section
+(see footnote 3). By doing so, the DSO certifies the following (see footnote 3):
+• All information is accurate
+• The student has submitted a written application to the school
+• The school has received, reviewed and evaluated the following student documents:
+o Written application
+o Transcripts or other records of course taken
+o Proof of financial responsibility
+o Other supporting documents
+• All information reflects the program for which the student gained admittance. The
+student’s qualifications meet all standards for admission
+• The official responsible for admissions has accepted the student for enrollment into the
+program of study
+3. Recordkeeping and reporting. The student’s record must contain evidence that the student
+has met all standards for admission, including English proficiency requirements.4 SEVP may
+request these records at any time. A school must report its admissions policies and
+requirements, including any English language proficiency requirements on the Form I-175
+and when submitting a program update.6
+4. Adverse action. SEVP may deny a school’s recertification or withdraw a school’s SEVP
+certification on notice for failure to comply with applicable statutes and regulations related to
+SEVP certification, or with the admissions policies stated on the school’s Form I-17.
+References:
+1. 8 CFR 214.3(g)(1)(x)
+2. 8 CFR 214.3(h)(3)(ii)
+3 8 CFR 214.3(k)
+4 8 CFR 214.3(g)(1)(x)
+5 See SEVIS field 16.
+6 8 CFR 214.3(h)(3)(ii)
+Policy Guidance S13.1
+Conditional Admission
+3. 8 CFR 214.3(k)
+4. 8 CFR 214.3(k)(3)-(4)
+Limits of use – no private right of action: This SEVP Policy Guidance applies to and is
+binding on all SEVP employees unless specifically exempt. Its intention is solely for the
+guidance of SEVP personnel in the performance of their official duties. Nothing in this guidance
+limits SEVP’s authority or discretion to interpret, administer or enforce any statute, regulation,
+policy or guidance related to SEVP certification. This guidance may be modified, superseded or
+withdrawn at any time. It is not intended to, does not, and may not be relied upon to create or
+confer any right or benefit, substantive or procedural, enforceable at law or in equity by any
+person, individual or other party, public or private, in any administrative, civil or criminal matter.
+Signed by Rachel Canty on July 13, 2016
+Deputy Director, External Operations
+Student and Exchange Visitor Program

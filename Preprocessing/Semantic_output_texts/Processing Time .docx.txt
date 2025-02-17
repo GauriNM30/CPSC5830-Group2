@@ -1,0 +1,776 @@
+Processing Time – OPT
+Check Case Processing Times
+Select your form, form category, and the office that is processing your case
+Refer to your receipt notice to find your form, category, and office. For more information about case processing times and reading your receipt notice, visit the More Information About Case Processing Times page.
+Form I-765 | Application for Employment
+Form Category
+Select One Based [(c)(26)]Based on a request by a qualified F-1 academic student OR [(c)(3)]Based on an approved,
+Field Office or Service Center
+Select One Potomac Service Center
+Get processing time
+Processing time for Application for Employment Authorization (I-765) at Potomac Service Center
+80% of cases are completed within
+Months
+Sign in or create a new account to see your estimated case timeline.
+What does this processing time mean?
+We generally process cases in the order we receive them. This processing time is based on how long it took us to complete 80% of adjudicated cases over the past six months. Each case is unique, and some cases may take longer than others. Processing times should be used as a reference point, not an absolute measure of how long your case will take to be completed.
+Learn more about processing times.
+When can I ask about my case?
+Many routine factors impact how quickly a case is processed. We only allow inquiries for cases that are well outside the processing time listed above.
+Learn more about the Case Inquiry Date.
+MORE INFORMATION ABOUT CASE PROCESSING TIMES
+We display case processing times for select forms and locations to let you know how long it generally takes to process benefit requests and when you can contact us with questions about your case. We update case processing times on the website monthly with the latest available data.
+This webpage provides information on how to:
+Find information needed to use the processing times webpage;
+Read and interpret the processing times on the webpage; and
+Understand how to use the case inquiry tool.
+Finding Your Case Information
+You will need some specific information about your case to use the processing times webpage and case inquiry tools. Below is an example of where you can find specific information on USCIS correspondence. This information is also found on USCIS receipt notices, and some information may be found on a copy of your application, petition, or request. We also provide guidance for determining your form type (sometimes referred to as case type) and relevant form category.
+If the “USCIS Office” is the National Benefits Center (NBC) and you have filed an employment-based or family-based Form I-485, a Form N-400, or a Form N-600, you should check processing times for your local field office. You can use our Field Office Locator if you need help determining your local office (scroll to the bottom of the page). If your case is transferred to another office, you should refer to the processing times for the new office.
+What Does the Processing Time Mean and How Is It Calculated?
+The processing time displayed on the USCIS website is the amount of time it took us to complete 80% of adjudicated cases over the last six months. Processing time is defined as the number of days (or months) that have elapsed between the date USCIS received an application, petition, or request and the date USCIS completed the application, petition, or request (that is, approved or denied it) in a given six-month period.
+For example, if we received a Form N-400 on Jan. 24, 2022, and completed adjudication of the application on March 5, 2022, then the processing time for that specific application is 41 days. This calculation is done for every Form N-400 we completed in March 2022 and the five months prior to March 2022 (a six-month period).
+We then review the processing times for adjudicated cases to determine how long it took for 80% of those cases to be completed over the previous six months. So, if we completed 1,000 Form N-400 applications in the previous six months, and 80% (or 800) of them were completed within 60 days (or two months), then the processing times webpage will display two months as the processing time for Form N-400 in May 2022.
+Processing times generally reflect how long we have taken to complete applications, petitions, or requests. Many factors may affect how long it takes USCIS to complete an application, petition or request, such as the number of applications, petitions, or requests we receive, workload and staffing allocations, the time a benefit requestor takes responding to a request for more information, as well as policy and operational changes, among other factors.
+Most forms displayed on the processing times webpage use this methodology. However, some forms use an older methodology known as “cycle time.”1 The cycle time measures how many months' worth of cases are awaiting a decision for a particular form.
+For example, if an office had 500 applications for Form I-800 pending in April 2020 and the office received 200 Form I-800s in February 2020 and 300 Form I-800s in March 2020, then the cycle time for Form I-800 in April 2020 was two months (200 + 300 = 500 pending applications).
+Internally, USCIS uses the cycle time methodology to gauge progress toward reducing our backlog of cases. Learn more about our internal cycle time goals for certain forms.
+1. The following forms still use cycle time methodology: Form I-129, and Form I-129CW.
+When and How Can I Ask a Question About the Status of My Case?
+Processing times are provided as a reference point for how long we have taken to complete most cases. Because many factors impact the processing time – and to better manage our limited resources by allowing staff to focus on adjudicating cases rather than responding to inquiries – we allow inquiries for cases that are taking longer than the time USCIS took to complete 93% of adjudications. Those cases are deemed to be outside normal processing times. For forms that still use the cycle time methodology, we generally define outside normal processing times as those cases that are taking longer than 130% of the cycle time.2
+You must go to the processing times webpage, where we provide a tool to help you determine whether you can request an update on your case. Using the tool, you enter your receipt date, which can be found on your receipt notice, into the text box. If your case is outside normal processing times (beyond the time to complete 93% of adjudicated cases or beyond 130% of the cycle time), you will be provided a link for submitting an inquiry. If your case is within normal processing times, you will be provided an estimated date for when you can contact us. Please check back periodically because processing times may change.
+2. We use 130% of the cycle time because it is close to the time to complete 93% of adjudicated cases – though this can vary by form type and office. Because cycle times use a different methodology, they do not correspond directly to the processing times produced with our current methodology.
+How Is the Case Inquiry Date Calculated?
+This is how we calculate the case inquiry date:
+Case Inquiry Date = [time to complete 93% of adjudicated cases] – [today’s date – receipt date]
+Example:
+If you checked our processing times webpage on Jan. 1, 2022, for a form you filed on Jan. 1, 2021, and the time to complete 93% of adjudicated cases was 13 months, your case inquiry date would be calculated as:
+Case Inquiry Date = [13 months] – [Jan. 1, 2022 – Jan. 1, 2021]
+= [13 months] – [12 months]
+= one month
+In this example, we estimate that you would be able to contact us in one month. The tool will provide the exact date for you. If the calculation for the case inquiry date produces a negative number, you will be able to submit a question about your case.
+Frequently Asked Questions About Processing Times
+General
+Why is my form type or office not listed?
+If your form type is not listed on the processing time webpage, you may submit an inquiry if your case has been pending more than six months. Please note that is a default timeframe for inquiring. You should not necessarily expect a decision in that timeframe. We are working to develop processing times for all forms, form categories, and offices. We will continue to add forms, form categories, and offices to the public website as they become available.
+Where should I look for my processing time if my receipt lists the National Benefit Center (NBC)?
+If the “USCIS Office” is the National Benefits Center (NBC) and you have filed an employment-based or family-based Form I-485, a Form N-400, or a Form N-600, you should check processing times for your local field office. You can use our Field Office Locator if you need help determining your local office (scroll to the bottom of the page).
+Where can I find my receipt number?
+Case Inquiries
+I think my case is taking too long; when can I submit a service request?
+After you obtain your processing time, a tool will appear to help you determine whether you can contact us with questions about your case. Enter your receipt date, which can be found on your receipt notice, into the text box. If your case is outside normal processing times (beyond the time to complete 93% of adjudicated cases or beyond 130% of the cycle time), you will be provided a link for submitting an inquiry. If your case is within normal processing times, you will be provided an estimated date for when you can contact us. Please check back periodically because processing times may change.
+Why are the processing times increasing for the form type I submitted?
+Many factors may affect how long it takes USCIS to complete an application, petition or request, such as the number of applications, petitions, or requests we receive, workload and staffing allocations, the time a benefit requestor takes responding to a request for more information, as well as policy and operational changes, among other factors.
+I have been waiting longer for a decision than the time displayed for my form type and office. Why?
+Many factors impact processing times, including the number of applications, petitions, or requests we receive, workload allocations, and staffing levels, among other factors. Case-specific factors may also make an individual adjudication more complex, requiring additional adjudicative time. Some of these factors can also be influenced by the benefit requestor, such as if an application, petition, or request is incomplete when we receive it, or if an applicant, petitioner, or requestor receives a request for more information or misses an appointment for biometrics submission or interview.
+Methodology and Calculations of Processing Times
+Do the processing times listed on the website include cases where a request for evidence (RFE) or other notice has been sent or where biometrics submission is required?
+Yes, the processing times include all time from receipt to completion. This includes the amount of time it takes to submit biometrics, the time an applicant, petitioner, or requestor takes to respond to requests for more information, and rescheduling of interviews.
+Are visa-regressed Forms I-485, Application to Register Permanent Residence or Adjust Status, included in the calculation?
+No. Visa regressed adjustment applications are not included in the processing times shown on the website. You can find additional information on visa retrogression on our website.
+Are petitions that had an approval revoked included in the processing times calculations?
+No. We use the first decision (that is, approval or denial) to calculate processing times.
+Are premium processing cases included in the processing times calculations?
+No, cases that undergo premium processing are not included in the processing times calculations.
+How often is this website updated?
+We make every effort to update the processing times every month. For most forms, the processing times displayed are based on data that are one month old. For forms that still use the cycle time methodology, the processing times displayed are based on data captured approximately two months prior to updating the page.
+Why did USCIS switch from a range of times to showing one single time?
+We received feedback that the range of times could be confusing to interpret, and we continually work to improve how we communicate processing times.
+Why do some forms use the cycle time methodology to calculate processing times?
+Historically, we used the cycle time methodology to present public processing times. In 2018, we implemented a revised methodology that is used for most forms. Over time, all forms will use the processing time methodology. Cycle time is now mostly used as an internal metric to measure progress we make toward reducing our backlog.
+There appears to be an error on the webpage; who should I contact?
+You may contact the USCIS webmaster at uscis.webmaster@uscis.dhs.gov.
+I want to know what processing times were in the past; where can I find this information?
+We provide historical processing times for select forms from FY 2012 to FY 2022 on the Historic Processing Times webpage. This information represents the cumulative median processing time by fiscal year (Oct. 1-Sept. 30), using the current processing time methodology. This webpage is updated on a quarterly basis.
+Where can I find additional notes on how USCIS calculates the processing times for specific forms?
+We place information related to specific forms on the processing time webpage in the “Notes” section and in the “Other Case Processing Time Resources” section of the processing times webpage
+Important Information About Form I-765, Application for Employment Authorization
+Please note that for Form I-765 category (c)(8), based on a pending asylum application, the processing timeframes listed apply to an initial and renewal filing.
+Please note that the adjudication of Form I-765 category (c)(33) filed with Form I-821D, requesting deferred action for childhood arrivals, does not begin until we decide on your request for deferred action.
+Please note that we do not begin adjudicating a Form I-765 filed with your Form I-914, Application for T Nonimmigrant Status and/or Form I-914, Supplement A: Application for Family Member of T-1 Recipient, until we make a final decision on your Form I-914 or Form I-914A. This includes employment authorization document (EAD) categories (a)(16) or (c)(25) filed with Form I-914 or I-914A. Refer to the Check Case Processing Times webpage for Form I-914 processing times.
+Please note that we do not begin adjudicating a Form I-765 filed with your Form I-918, Petition for U Nonimmigrant Status and/or Form I-918, Supplement A, Petition for Qualifying Family Member of U-1 Recipient, until we:
+Determine your petition is bona fide and that you warrant a favorable exercise of discretion under the bona fide determination process;
+Grant deferred action because you were placed on the U nonimmigrant waiting list; or
+Approve your petition.
+This includes the following EAD categories:
+(a)(19) or (c)(14) filed with Form I-918; and
+(a)(20) or (c)(14) filed with Form I-918, Supplement A
+Refer to the Check Case Processing Times webpage for Form I-918 processing times.
+Please note that the adjudication of Form I-765 categories (c14) and (c)(31) filed with a Form I-360 petition for an abused spouse or child of a U.S. citizen or lawful permanent resident does not begin until we make a final decision on your petition. Refer to the Check Case Processing Times webpage for Form I-360 processing times
+Other Resources
+Website that tracks the EAD time. They have premium and non-premium time. You can find the link: HERE.
+Historical National Median Processing Time (in Months) for All USCIS Offices for Select Forms By Fiscal Year: [HERE]
+Reddit comments from people’s experiences:
+Certain-Airport-6137
+•3mo ago•Edited 2mo ago
+Application Type: OPT
+Premium Processing: No
+Receipt Date: October 30,2024
+A-number: Nov 24, 2024
+Approved Date: Nov 25, 2024
+Card Produced Date: Dec 2, 2024
+Card Shipped: [Pending]
+Card Delivered: Dec 5, 2024
+Upvote6DownvoteReply replyAwardShareShare
+RoomBeneficial5226
+•3mo ago
+Same! Still waiting
+Upvote2DownvoteReply replyAwardShareShare
+DefinitionOk7480
+•2mo ago
+Application Type: OPT
+Premium Processing: No
+Receipt Date: October 31,2024
+Approved Date: [Pending]
+Card Produced Date: [Pending]
+Card Shipped: [Pending]
+Card Delivered: [Pending]
+Upvote3DownvoteReply replyAwardShareShare
+3 more replies
+Curious_Flounder_525
+•2mo ago
+Any updates yet? My receipt date is Nov 1.
+Upvote2DownvoteReply replyAwardShareShare
+1 more reply
+8 more replies
+AdSecret3002
+•22d ago•Edited 14d ago
+Application type: OPT (Initial)
+Premium Processing?: No
+Receipt Date: Nov 28th, 2024
+A number: 7th Jan, 2025
+Approved Date: 9th Jan, 2025
+Card Produced Date: 13th Jan, 2025
+Card Shipped: -
+Card Delivered: -
+Upvote5DownvoteReply replyAwardShareShare
+8 more replies
+Far_Comedian1081
+•4mo ago•Edited 3mo ago
+Application type: OPT
+Premium Processing?: No
+Receipt Date: October 8, 2024
+A-number: October 30th
+Approved Date: October 31st
+Card Produced Date: November 6th
+Card Shipped: not notified - tracking number was unavailable
+Card Delivered: November 12th (shipped to boston, ma)
+Upvote4DownvoteReply replyAwardShareShare
+8 more replies
+Gullible_Let_4886
+•3mo ago
+Application type: STEM OPT
+Premium Processing?: No
+Receipt Date: 29 th Sep 2024
+Approved Date: 11th Nov 2024
+Card Produced Date: 13th Nov 2024
+Card Shipped:
+Card Delivered:
+Upvote4DownvoteReply replyAwardShareShare
+Gullible_Rub4515
+•2mo ago•Edited 2mo ago
+Thanks. Your processing time gave me confidence to believe my time line
+STEM OPT NP
+Receipt date: 10/24/2024
+Approval date: 11/17/2024 (Shows “Approval Case Decision Rendered’’)
+Card Produced: 11/20/2024
+Card Received: 11/25/2024
+Felt too quick to be true :)
+Upvote2DownvoteReply replyAwardShareShare
+9 more replies
+Apprehensive-Egg-333
+•2mo ago
+Application type: OPT
+Premium Processing?: Yes/ November 4th
+Receipt Date: November 4th
+Approved Date: November 9th
+Card Produced Date: November 14th
+Card Shipped: n/a
+Card Delivered:n/a
+Upvote4DownvoteReply replyAwardShareShare
+oms1994
+•2mo ago
+Did you receive your card ?
+Upvote3DownvoteReply replyAwardShareShare
+6 more replies
+Darkarbon
+•2mo ago•Edited 1mo ago
+Application type: STEM OPT
+Premium Processing?: No
+Receipt Date: 11/19/2024
+Approved Date: 12/3/2024
+Card Produced Date:
+Card Shipped:
+Card Delivered: 12/10/2024
+Processing time was saying around 5 months. So I am really surprised about how fast it went. Good luck to you all !
+Upvote4DownvoteReply replyAwardShareShare
+Substantial_Tea3435
+•2mo ago
+Any updates on your card production?
+Upvote2DownvoteReply replyAwardShareShare
+2 more replies
+michael_halpert007
+•16d ago•Edited 6d ago
+Application type: OPT
+Premium Processing?: No
+Receipt Date: Dec 2nd, 2024
+Approved Date: Jan 11th, 2025
+Card Produced Date: Jan 17th 2025
+Card Shipped: NA
+Card Delivered: Jan 21st, 2025
+Upvote4DownvoteReply replyAwardShareShare
+4 more replies
+zzzsteven30
+•4mo ago•Edited 3mo ago
+Application type: OPT
+Premium Processing?: No
+Receipt Date: 10/09
+Approved Date: 10/31
+Card Produced Date: 11/05
+Card Shipped: -
+Card Delivered: 11/09
+Upvote3DownvoteReply replyAwardShareShare
+1 more reply
+tomchandler09
+•3mo ago•Edited 3mo ago
+Application Type: OPT
+Premium Processing: No
+Receipt Date: October 5, 2024
+A number: Nov 1, 2024
+Approved Date: Nov 1, 2024
+Card Produced Date: Nov 6, 2024
+Card Shipped: Unavailable
+Card Delivered: Nov 8, 2024
+Niklesh1•2mo ago•Edited 2mo ago
+Application type: OPT
+Premium Processing?: No
+Receipt Date: Oct 31 2024 A Number : 26 November
+Approved Date: 28 November
+Card Produced Date: 5 December
+Card Shipped: 6 December
+Card Delivered: 9 December
+Upvote3DownvoteReply reply
+more replies2
+goodBetterMan•2mo ago•Edited 22d ago
+Application type: OPT
+Premium Processing?: No
+Receipt Date: November 20, 2024
+A-number: December 26, 2024
+Approved Date: December 27, 2024
+Card Produced Date: January 02, 2025
+Card Shipped: No track number (Maybe January 03, 2025)
+Card Delivered: January 07, 2025 (Yay!)
+Upvote3DownvoteReply reply
+Muted-Ad1640•1mo ago
+Hey, do you know what your processing center is?
+Upvote2DownvoteReply reply
+more reply1
+more replies38
+Smartie2639•2mo ago
+Application type: Initial OPT
+Premium Processing: No
+Receipt Date: 11/16
+A-number: Pending
+Approved Date: Pending
+Card Produced Date: Pending
+Card Shipped: Pending
+Card Delivered: Pending
+Upvote3DownvoteReply reply
+more replies5
+Slight_Main_2260•2mo ago
+Application Type: OPT
+Premium Processing: No
+Receipt Date: October 26, 2024
+A-number: [Pending]
+Approved Date: [Pending]
+Card Produced Date: [Pending]
+Card Shipped: [Pending]
+Card Delivered: [Pending]
+Upvote3DownvoteReply reply
+more reply1
+Small-Permission-241•2mo ago•Edited 1mo ago
+Application type: STEM OPT
+Premium Processing?: No -> yes(changed)
+Receipt Date: Nov/14/2024
+Approved Date: Nov/17/2024
+Card Produced Date:
+Card Shipped: Dec/04/2024
+Card Delivered: Dec/17/2024
+Upvote3DownvoteReply reply
+more replies5
+Hari-Duster•2mo ago•Edited 15d ago
+Application type: OPT
+Premium Processing?: No   .later upgraded to premium on Dec 23 2024
+Receipt Date: October 8, 2024
+Approved Date: 30 December
+Card Produced Date: 7 Jan 2024
+Card Shipped: 8 Jan 2024
+Card Delivered: 10 Jan 2024
+Upvote3DownvoteReply reply
+more replies6
+EventAccomplished264•2mo ago•Edited 8d ago
+Application type: OPT
+Premium Processing?: No
+Receipt Date: December 02, 2024
+Approved Date: January 12, 2025
+Card Produced Date: January 16, 2024
+Card Shipped: tracking unavailable
+Card Delivered: January 21, 2024
+Upvote3DownvoteReply reply
+[deleted]•2mo ago
+Ill_Comfort1616•2mo ago
+Application type: OPT
+Premium Processing?: No
+Receipt Date: Nov 14 2024
+Approved Date: Dec 15 2024
+Card Produced Date:
+Card Shipped:
+Card Delivered:
+Upvote3DownvoteReply reply
+more replies10
+TheAayu1011•1mo ago•Edited 1mo ago
+Application type: OPT
+Premium Processing?: No
+Receipt Date: Nov 16th
+A-Number: Dec 17th
+Approved Date: Dec 19th
+Card Produced Date: Dec 24th
+Card Shipped: Dec 26th
+Card Delivered: Dec 28th
+Upvote3DownvoteReply reply
+more replies16
+Muted-Ad1640•1mo ago•Edited 22d ago
+Application type: Initial OPT
+Premium Processing?: No
+Receipt Date: Nov. 27
+A-number: January 7th
+Approved Date:
+Card Produced Date:
+Card Shipped:
+Card Delivered:
+Upvote3DownvoteReply reply
+more replies7
+Og_Sadik•1mo ago•Edited 21d ago
+Application type: OPT
+Premium Processing?: No
+Receipt Date: November 21, 2024
+A-number: December 27, 2024
+Approved Date: December 29, 2024
+Card Produced Date: January 3, 2025
+Card Shipped: Unknown
+Card Delivered: Jan 7, 2025
+Upvote3DownvoteReply reply
+more replies12
+Alsin09•1mo ago
+⁠Application type: OPT
+⁠Premium Processing?: No
+⁠Receipt Date: November 27, 2024
+⁠A-number:
+⁠Approved Date:
+⁠Card Produced Date:
+⁠Card Shipped:
+⁠Card Delivered:
+Upvote3DownvoteReply reply
+more replies6
+Cut_thee_Crap•1mo ago•Edited 23d ago
+Application type: OPT
+Premium Processing?: No
+Receipt Date: November 25, 2024
+Approved Date: January 5, 2024
+Card Produced Date: Not yet
+Card Shipped: Not yet
+Card Delivered: Not yet
+Upvote3DownvoteReply reply
+more replies14
+Ok_Emu6325•22d ago•Edited 19d ago
+Application type: Initial OPT
+Premium Processing?: No -> Yes( Dec. 20th)
+Receipt Date: Dec 10th
+Approved Date: Jan 4th
+Card Produced Date: Jan 7th
+Card Shipped: They never updated it - I just found my card in mailbox
+Card Delivered: Jan 10th
+Upvote3DownvoteReply reply
+more replies6
+Alsin09•20d ago•Edited 13d ago
+⁠Application type: OPT
+⁠Premium Processing? No
+⁠Receipt Date: November 27, 2024
+⁠A-number: January 7, 2025
+⁠Approved Date: January 9, 2025
+⁠Card Produced Date: Jan 14, 2025 ( received the email at midnight lol)
+⁠Card Shipped: Jan 15th
+⁠Card Delivered: Jan 16
+Praise the LORD 🙏
+Upvote3DownvoteReply reply
+more replies5
+rexovier•12d ago•Edited 8h ago
+Application type: OPT (Post-Completion/Initial)
+Premium Processing?: No
+Receipt Date: December 15, 2024
+A-number: January 20-22, 2025 (couldn't check on 21st)
+Approved Date: January 23, 2025
+Card Produced Date: January 29, 2025
+Card Shipped: TBD
+Card Delivered: TBD
+Upvote3DownvoteReply reply
+more replies5
+Altruistic-Potato-44•7d ago
+Application type: Initial OPT
+Premium Processing?: No
+Receipt Date: 08/25/2024
+Got RFE: 10/02/24
+RFE response: 11/15/24
+Approved Date: [pending]
+Card Produced Date: [Pending]
+Card Shipped: [Pending]
+Card Delivered: [Pending]
+What should I do now? Your suggestion would be highly appreciated!
+Upvote3DownvoteReply reply
+more replies2
+Commercial_Mistake85•4mo ago•Edited 3mo ago
+Dry_Committee_4722•4mo ago•Edited 3mo ago
+Application Type: OPT
+Premium Processing: No
+Receipt Date: October 10, 2024
+A-Number: November 02, 2024
+Approved Date: November 02, 2024
+Card Produced Date: November 07, 2024
+Card Shipped: [Pending]
+Card Delivered: [Pending]
+Upvote2DownvoteReply reply
+more replies11
+QwertyUnicornTV•4mo ago•Edited 3mo ago
+⁠Application Type: OPT
+⁠Premium Processing: No
+⁠Receipt Date: October 5, 2024
+⁠Approved Date: Oct. 26
+⁠Card Produced Date: Nov 1
+⁠Card Delivered: Nov 4
+Upvote2DownvoteReply reply
+more reply1
+harikj5•4mo ago•Edited 3mo ago
+Application type: OPT
+Premium Processing?: No
+Receipt Date: September 27, 2024
+Approved Date: October 18, 2024
+Card Produced Date: October 23, 2024
+Card Shipped: -
+Card Delivered: October 25, 2024
+Upvote2DownvoteReply reply
+more replies11
+Unlucky-Restaurant58•3mo ago•Edited 3mo ago
+Application type: OPT
+Premium Processing?: No
+Receipt Date: Oct 1, 2024
+Approved Date: Oct 26, 2024
+Card Produced Date: Nov 1, 2024
+Card Shipped: Wasn't Notified
+Card Delivered: Nov 4, 2024
+Upvote2DownvoteReply reply
+mochiakku•3mo ago•Edited 2mo ago
+Application type: OPT/STEM OPT
+Premium Processing?: No
+Receipt Date: 26 October 2024
+Approved Date: 22 November 2024
+Card Produced Date: 2 December
+Card Shipped: [Waiting]
+Card Delivered: 10 December!!! (To Boston)
+3.1 Received A number: 20 November
+Upvote2DownvoteReply reply
+more reply1
+mahbub1995•3mo ago•Edited 2mo ago
+⁠Application Type: OPT
+⁠Premium Processing: No
+⁠Receipt Date: October 29,2024
+⁠Approved Date: [November 25]
+⁠Card Produced Date: [December 2]
+⁠Card Shipped: Unavailable
+⁠Card Delivered: December 5
+Upvote2DownvoteReply reply
+more replies6
+RevolutionaryCry5775•3mo ago•Edited 3mo ago
+Application Type: OPT
+Premium Processing: No
+Receipt Date: October 14, 2024
+A Number : November 5,2024
+Approved Date: November 6,2024
+Card Produced Date: [Pending]
+Card Shipped: [Pending]
+Card Delivered: [Pending]
+Upvote2DownvoteReply reply
+more replies6
+hemanth992•3mo ago•Edited 1mo ago
+Application type: OPT
+Premium Processing?: No
+Receipt Date: 11/05/2024
+A Number: 12/03/2024
+Approved Date: 12/05/2024
+Card Produced Date:
+Card Shipped:
+Card Delivered: 12/11/2024
+Upvote2DownvoteReply reply
+more replies4
+[deleted]•3mo ago•Edited 2mo ago
+⁠Application type: OPT
+⁠Premium Processing?: No
+⁠Receipt Date: 6th November
+⁠A- number: 3rd December
+Approved Date: 5th December
+⁠Card Produced Date: 11th December
+⁠Card Shipped:
+⁠Card Delivered:
+Upvote2DownvoteReply reply
+Ok_Research_8227•2mo ago
+Application type: OPT
+Premium Processing?: No
+Receipt Date: November 5th
+Approved Date: December 1st
+Card Produced Date: Pending
+Card Shipped:Pending
+Card Delivered:Pending
+Upvote3DownvoteReply reply
+more replies3
+more replies9
+Hungry-Astronaut6145•3mo ago•Edited 2mo ago
+⁠⁠Application type: OPT
+⁠⁠Premium Processing?: No
+⁠⁠Receipt Date: November 2, 2024
+A-number - November 26, 2024
+⁠⁠Approved Date: November 28, 2024 (Happy Thanksgiving! 🦃)
+⁠⁠Card Produced Date: December 5, 2024
+⁠⁠Card Shipped: December 6th, 2024
+⁠⁠Card Delivered: December 8th, 2024
+Upvote2DownvoteReply reply
+Internal_Ad_5541•3mo ago•Edited 2mo ago
+Application type: OPT
+Premium Processing? No
+Receipt Date: October 22, 2024
+A number - November 14, 2024
+Approved Date: November 16th, 2024
+Card Produced Date: November 20th, 2024
+Card Shipped:
+Card Delivered:
+Upvote2DownvoteReply reply
+more replies6
+fentoz_•2mo ago•Edited 1mo ago
+Application type: OPT
+Premium Processing?: No
+Receipt Date: 15th November (A number: 16th Dec)
+Approved Date: 17th Dec
+Card Produced Date: 21st Dec
+Card Shipped:
+Card Delivered:
+Upvote2DownvoteReply reply
+more replies4
+from_syd•2mo ago•Edited 1mo ago
+Application type: Post-Completion OPT
+Premium Processing?: Initially no, but then paid for premium on Nov 27.
+Receipt Date: October 8, 2024
+Approved Date: Dec 3, 2024
+Card Produced Date: Dec 14, 2024
+Card Shipped: No notification.
+Card Delivered: Dec 18th.
+Ugh!! It seems like many on this thread with my receipt date got approved and cards delivered by now and nothing has changed on my case. Starting to get nervous...
+EDIT: happy to have my card now but was very stressful and frustrating to have to pay for premium and then still wait like 3 weeks after that to receive my card.
+Upvote2DownvoteReply reply
+more replies9
+Substantial_Tea3435•2mo ago•Edited 2mo ago
+EdwardFtx•2mo ago
+Application type: Initial OPT
+Premium Processing: No
+Receipt Date: 10/26
+A-number: 11/19
+Approved Date: 11/21
+Card Produced Date: Pending
+Card Shipped: Pending
+Card Delivered: Pending
+Upvote2DownvoteReply reply
+more reply1
+Advanced_Pick_112•2mo ago•Edited 1mo ago
+Low-Body-4194•2mo ago
+Application type: OPT
+Premium Processing?: Yes 14th nov
+Receipt Date: 14th Nov
+Approved Date(email)- 19Nov
+Card Produced Date: pending
+Card Shipped: pending
+Card Delivered:pending
+Upvote2DownvoteReply reply
+more replies2
+United385•2mo ago•Edited 1mo ago
+Application type: OPT
+Premium Processing?: No
+Receipt Date: Nov 12, 2024
+A-number: Dec 11, 2024
+Approved Date: Dec 13, 2024
+Card Produced Date: Dec 18, 2024
+Card Shipped: Dec 18, 2024
+Card Delivered: Dec 19, 2024
+Upvote2DownvoteReply reply
+more replies4
+Correct_Pen_2878•2mo ago•Edited 2mo ago
+Application type: STEM OPT
+Premium Processing?: No
+Receipt Date: 15th November 2024
+Approved Date: 29th November 2024
+Card Produced Date: 6th December 2024
+Card Shipped: 8th December 2024
+Card Delivered: 8th December 2024
+Upvote2DownvoteReply reply
+more replies2
+Ok_Research_8227•2mo ago•Edited 2mo ago
+Application type: OPT
+Premium Processing?: No
+Receipt Date: November 5th
+Approved Date: December 1st
+Card Produced Date: December 6th
+Card Shipped:Pending
+Card Delivered:Pending
+Upvote2DownvoteReply reply
+more replies5
+inchrvndr•2mo ago•Edited 2mo ago
+Application type: OPT                                            Premium Processing?: Yes                                  Receipt Date: 11/25/2024                                    Approved Date: 12/03/2024                                          Card Produced Date: 12/09/2024                              Card Shipped: 12/10/2024                                              Card Delivered: 12/12/2024
+EDIT: If tracking number is unavailable, live chat with an agent w/ Emma. They will provide it to you
+Upvote2DownvoteReply reply
+more replies15
+frtho__•2mo ago•Edited 2mo ago
+Application type: STEM OPT
+Premium Processing?: No
+Receipt Date: November 18, 2024
+Approved Date: December 8, 2024
+Card Produced Date: December 13, 2024
+Card Shipped: December 14, 2024
+Card Delivered: [Pending]
+Upvote2DownvoteReply reply
+Previous_Voice1043•2mo ago•Edited 20d ago
+Acidicprison•2mo ago•Edited 1mo ago
+Sensitive_Bell_575•2mo ago•Edited 10d ago
+Application type: OPT
+Premium Processing?: No
+Receipt Date: November 30th
+Approved Date: January 10th
+Card Produced Date: January 15th
+Card Shipped: N/A
+Card Delivered: January 18th
+Upvote2DownvoteReply reply
+more replies4
+Beginning-Leopard162•2mo ago•Edited 1mo ago
+⁠Application Type: OPT
+⁠Premium Processing: No
+⁠Receipt Date: November 14, 2024
+⁠A-number: December 14, 2024 (Might have been there earlier but I checked on that day)
+⁠Approved Date: December 15, 2024
+⁠Card Produced Date: December 20, 2024
+⁠Card Shipped: December 20, 2024
+⁠Card Delivered: December 24, 2024
+Upvote2DownvoteReply reply
+more replies6
+Small-Bake5557•2mo ago•Edited 1mo ago
+Application type: OPT
+Premium Processing?: No
+Receipt Date: Nov 14th
+A-Number: Dec 15th
+Approved Date:  Dec 17th
+Card Produced Date:  December 20
+Card Shipped:  -
+Card Delivered: 23rd Dec 2024
+Upvote2DownvoteReply reply
+more replies5
+BidWeird273•1mo ago•Edited 19d ago
+⁠Application type: STEM OPT
+⁠Premium Processing?: No
+⁠Receipt Date: Dec/12/2024
+⁠Approved Date: January / 10/ 2025
+⁠Card Produced Date:
+⁠Card Shipped:
+⁠Card Delivered:
+Upvote2DownvoteReply reply
+more replies15
+SecurityLeather3747•1mo ago•Edited 9d ago
+Application type: STEM OPT
+Premium Processing?: Yes
+Receipt Date: Dec 17 2024
+Approved Date: Jan 8 2025
+Card Produced Date: Jan 14 2025
+Card Shipped: yes
+Card Delivered: Jan 18 2025
+Upvote2DownvoteReply reply
+more replies41
+Long-Day54•1mo ago•Edited 19d ago
+Application type: Post- Completion OPT
+Premium Processing?: No then Yes
+Receipt Date: Dec 18 2024 (initially Nov22)
+Approved Date: Dec 30 2024
+Card Produced Date: January 7 2025
+Card Shipped: not yet
+Card Delivered: 10th January 2025
+Upvote2DownvoteReply reply
+more replies12
+Informal-Concept3935•1mo ago•Edited 25d ago
+Application type: Post-Completion OPT
+Premium Processing?: No
+Receipt Date: Nov 19 2024
+Approved Date: Dec 21 2024
+Card Produced Date: Dec 28 0224
+Card Shipped:
+Card Delivered: Jan 03 2025
+Upvote2DownvoteReply reply
+more replies27
+Imaginary-Client-508•1mo ago
+Application type: OPT
+Premium Processing?: No
+Receipt Date: 12/21/2024
+Approved Date:
+Card Produced Date:
+Card Shipped:
+Card Delivered
+Upvote2DownvoteReply reply
+more reply1
+Muted-Ad1640•1mo ago
+Has anyone with a receipt date of around the 27th of November heard anything?
+Upvote2DownvoteReply reply
+more replies2
+theUniqueBlend•1mo ago•Edited 5d ago
+Application type: STEM OPT
+Premium Processing?: No
+Receipt Date: 19 Dec 2024
+Approved Date: 18 Jan 2025
+Card Produced Date: 24 Jan 2025
+Card Shipped: [Pending]
+Card Delivered: [Pending]
+Upvote2DownvoteReply reply
+more replies18
+Puzzleheaded-Cup6956•1mo ago•Edited 23d ago
+Application type: OPT
+Premium Processing?: Yes(Dec 18)
+Receipt Date: Dec 18
+Approved Date: Dec 27
+Card Produced Date: Jan 3
+Card Shipped: pending
+Card Delivered: Jan 6
+Upvote2DownvoteReply reply
+Working_Routine3685•1mo ago
+How did you get the approval notice? My PP receipt date is Dec 17 but I have not heard anything.
+Upvote2DownvoteReply reply
+more replies4
+more replies10
+Imaginary_Finance152•1mo ago•Edited 19d ago
+Application type: Initial Pre-comp OPT
+Premium Processing?: No
+Receipt Date: November 15, 2024
+A-number: January 4
+Approved Date: January 7
+Card Produced Date: January 10
+Card Shipped:
+Card Delivered:
+Upvote2DownvoteReply reply
+more replies2
+Itchy_Cause_8105•1mo ago•Edited 26d ago
+Application type: OPT
+Premium Processing?: Yes (December 17, 2024)
+Receipt Date: December 17, 2024
+Approved Date: December 25, 2024 (approval email on 12/23/2024)
+Card Produced Date: December 30, 2024
+Card Shipped: December 31, 2024
+Card Delivered: January 3, 2025
