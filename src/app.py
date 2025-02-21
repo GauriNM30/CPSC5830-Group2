@@ -46,7 +46,7 @@ class Capstone:
         )
 
         # Initialize Gemini as fallback
-        api_key = os.getenv('GOOGLE_API_KEY', 'AIzaSyCa6CV8idLGFpzEGWZiEJYkiFU7JlCypi4')
+        api_key = os.getenv('GOOGLE_API_KEY')
         model_name = 'gemini-2.0-flash-exp'
         genai.configure(api_key=api_key)
         railguard_prompt = """
