@@ -1,0 +1,8 @@
+{
+    "pinecone_index_name": "jenitza",
+    "pinecone_vector_dimension": 768,
+    "pinecone_upsert_batch_limit": 25,
+    "pinecone_namespace": "default",
+    "gemini_embedding_model": "models/embedding-001"
+    
+}
