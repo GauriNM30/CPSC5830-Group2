@@ -1,5 +1,9 @@
+# This will be the main streamlit UI file for the Capstone project.
+# We will just call the app.py and some other stuff can be done here.
+# Please add logging 
+
 import streamlit as st
-from app import Capstone
+from old_app import Capstone
 
 # Initialize the Capstone chatbot
 capstone = Capstone()
