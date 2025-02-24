@@ -4,7 +4,7 @@ from transformers import pipeline
 from dotenv import load_dotenv
 from sentence_transformers import SentenceTransformer
 from pinecone import Pinecone, ServerlessSpec
-from PIIAnonymizer import PIIAnonymizer
+# from PIIAnonymizer import PIIAnonymizer
 
 # Class to query pinecone and answer generation
 class RAG:
@@ -61,7 +61,7 @@ class RAG:
 
     # Method to get the API key from the .env file
     def get_api_key(self, api_name):
-        env_path = ".env"  # Adjust the path as needed
+        env_path = "../.dummy_env"  # Adjust the path as needed
         load_dotenv(env_path)  # Load the environment variables
         return os.getenv(api_name)
 
@@ -70,7 +70,7 @@ class RAG:
         # Access the Pinecone API key
         pinecone_api_key = self.get_api_key("PINECONE_API_KEY")
         pinecone = Pinecone(api_key=pinecone_api_key)
-        index_name = "recursive-text-chunks"
+        index_name = "recursive-text-chunks-new"
         index = pinecone.Index(index_name)
         return index
 
@@ -111,7 +111,7 @@ class RAG:
         # Use the pipeline to generate the answer
         generated = self.pipe(
             prompt,
-            max_new_tokens=50,
+            max_new_tokens=200,
             num_return_sequences=1,
             temperature=0.7,
             top_p=0.9
