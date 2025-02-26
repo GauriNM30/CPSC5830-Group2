@@ -4,15 +4,36 @@ from transformers import pipeline, AutoModelForCausalLM, AutoTokenizer
 from dotenv import load_dotenv
 from sentence_transformers import SentenceTransformer
 from pinecone import Pinecone
+import google.generativeai as genai
 
+# RailGuard class from railguard.py
+class RailGuard:
+    def __init__(self) -> None:
+        api_key = os.getenv("GOOGLE_API_KEY")
+        model_name = 'gemini-2.0-flash-exp'
+        genai.configure(api_key=api_key)
+        railguard_prompt = """
+                            You are a railguard meant to judge if the user's question is related to F-1 visa regulations, CPT, or OPT. Specifically, determine if the question pertains to rules, regulations, or instructions for international students studying in the United States on an F-1 visa.
+
+If the question is related, reply True; otherwise, reply False. 
+                            """
+        self.chat_model = genai.GenerativeModel(model_name, system_instruction=railguard_prompt)
+
+    def railguard_eval(self, question: str) -> bool:
+        response = self.chat_model.generate_content(question)
+        return response.text.strip().lower() == "true"
+
+
+# Updated RAG class
 class RAG:
     def __init__(self):
-        # Initialize the device, model pipeline, Pinecone index, and embedding model
+        # Initialize the device, model pipeline, Pinecone index, embedding model, and RailGuard
         self.device = self.get_device()
         self.pipe = self.initialize_model()
         self.index = self.initialize_pinecone()
         self.embedding_model = self.initialize_embedding_model()
         self.reasoning_prompt = self.load_reasoning_prompt()  # Cache prompt from file
+        self.railguard = RailGuard()  # Initialize RailGuard
 
     def get_device(self):
         if torch.cuda.is_available():
@@ -37,7 +58,6 @@ class RAG:
                     "text-generation",
                     model=model,
                     tokenizer=tokenizer,
-                    #device=0  # Use GPU
                 )
             else:
                 # Use CPU if GPU is not available
@@ -91,23 +111,35 @@ class RAG:
         return self.index.query(vector=query_embedding, top_k=top_k, include_metadata=True)
 
     def generate_answer(self, query_text):
+        # First, check if the question is relevant using RailGuard
+        is_relevant = self.railguard.railguard_eval(query_text)
+        if not is_relevant:
+            return "This question is outside the scope of F-1 visa regulations, CPT, or OPT."
+
         # Query Pinecone for context
         results = self.query_pinecone(query_text)
-        context = "\n".join([match['metadata']['text'] for match in results.get("matches", [])])
+        context = []
+        for match in results.get("matches", []):
+            if "metadata" in match and "text" in match["metadata"]:
+                context.append(match["metadata"]["text"])
+            else:
+                print(f"Skipping invalid match: {match}")
 
+        context_str = "\n".join(context)
         # Construct the prompt using the cached reasoning prompt
         prompt = (
-            f"{self.reasoning_prompt}\n\n"
             "Context:\n"
-            f"{context}\n\n"
-            f"Question: {query_text}\n"
+            f"{context_str}\n\n"
+            f"Question: {query_text}\n\n"
+            f"{self.reasoning_prompt}\n\n"
+            "Answer concisely in 2-3 sentences if in scope, followed by 1 or 2 follow-up questions if needed. Don't answer for out of scope queries"
         )
 
         # Generate answer using no_grad to avoid unnecessary computations
         with torch.no_grad():
             generated = self.pipe(
                 prompt,
-                max_new_tokens=200,
+                max_new_tokens=500,
                 num_return_sequences=1,
                 temperature=0.7,
                 top_p=0.9
@@ -121,6 +153,56 @@ class RAG:
             torch.cuda.empty_cache()
 
         return final_answer
+
+    # def generate_answer(self, query_text):
+    #     # Query Pinecone for context
+    #     results = self.query_pinecone(query_text)
+        
+    #     # Safely extract and filter context
+    #     context = []
+    #     for match in results.get("matches", []):
+    #         if "metadata" in match:
+    #             metadata = match["metadata"]
+    #             if "text" in metadata: # and match["score"] > 0.5:  # Filter by confidence score
+    #                 context.append(metadata["text"])
+    #             # else:
+    #             #     print(f"Skipping low-confidence match: {match['id']}")
+    #         else:
+    #             print(f"Skipping match with missing metadata: {match['id']}")
+
+    #     if not context:
+    #         return "No relevant information found. Could you clarify your question or provide more details?"
+
+    #     context_str = "\n".join(context)
+
+    #     # Construct the prompt
+    #     prompt = (
+    #         f"{self.reasoning_prompt}\n\n"
+    #         "Context:\n"
+    #         f"{context_str}\n\n"
+    #         f"Question: {query_text}\n"
+    #         "Answer concisely in 2-3 sentences, followed by 1 or 2 follow-up questions."
+    #     )
+
+    #     # Generate answer
+    #     with torch.no_grad():
+    #         generated = self.pipe(
+    #             prompt,
+    #             max_new_tokens=500,
+    #             num_return_sequences=1,
+    #             temperature=0.7,
+    #             top_p=0.9
+    #         )
+            
+    #     # Extract the final answer
+    #     full_generated_text = generated[0]['generated_text']
+    #     final_answer = full_generated_text[len(prompt):].strip()
+
+    #     # Optionally clear GPU cache after generation
+    #     if self.device.type == "cuda":
+    #         torch.cuda.empty_cache()
+
+    #     return final_answer
 
 
 
