@@ -1,138 +1,230 @@
 import streamlit as st
-import RAG_With_QWEN  # Import your RAG class
 import json
 import os
-from sklearn.feature_extraction.text import TfidfVectorizer
+import uuid
+from datetime import datetime
+from pathlib import Path
+from RAG_With_QWEN import RAG
 
-# Clear session state to reset history
-def clear_session():
-    for key in list(st.session_state.keys()):
-        del st.session_state[key]
+# Set up Streamlit page configuration - MUST be the first Streamlit command!
+st.set_page_config(page_title="VisaWise", layout="centered", initial_sidebar_state="expanded")
 
-# Initialize the RAG object
-if "rag_obj" not in st.session_state:
-    st.session_state.rag_obj = RAG_With_QWEN.RAG()
+# Terms and Conditions Popup
+if "terms_accepted" not in st.session_state:
+    st.session_state.terms_accepted = False
 
-# Initialize current chat variables
+if not st.session_state.terms_accepted:
+    st.markdown("<h2 style='text-align: center;'>Privacy Policy</h2>", unsafe_allow_html=True)
+    st.write("Please read and accept our Terms and Conditions to continue using the application.")
+    st.write("""
+Visa Wise Last Comments 
+
+Name: If our scope is only F-1 Visa, then the tool's name should be F Visa Wise or something that shows that it only answers F Visa questions. It might be considering misleading but it's up to you.  
+
+Privacy: 
+
+Data the App May Collect 
+
+Disclaimer: the tool won't ask for your data on its own. The data collected will be shared by you, including but not limited to: 
+
+- Name 
+- Student ID 
+- Passport Details 
+
+Data Sharing of the information collected 
+
+- International Student Service Center 
+- Legal Compliance 
+- Consented by you 
+ 
+Your privacy is important to us, and we are committed to protecting your personal information. Please take a moment to review our Privacy Policy for more information on how we handle your data. 
+ 
+have read the Privacy Policy and understand how my data will be collected, used and protected. 
+ 
+ 
+ 
+    """)
+    
+    col1, col2 = st.columns(2)
+    if col1.button("Accept"):
+        st.session_state.terms_accepted = True
+        st.rerun()  # Rerun the app after acceptance
+    if col2.button("Decline"):
+        st.write("You have declined the Terms and Conditions. The application will now exit.")
+        st.stop()  # Halt app execution
+    
+    st.stop()  # Prevent the rest of the app from loading until terms are accepted
+
+# Everything below only executes after Terms are accepted.
+
+# Clear Cache
+st.cache_data.clear()
+st.cache_resource.clear()
+
+# Directory for saving chat sessions
+CHAT_DIR = Path("chat_sessions")
+CHAT_DIR.mkdir(exist_ok=True)
+
+# Initialize RAG instance and session state variables
+if "rag" not in st.session_state:
+    st.session_state.rag = RAG()
+if "current_chat" not in st.session_state:
+    st.session_state.current_chat = None
 if "messages" not in st.session_state:
     st.session_state.messages = []
-if "new_chat" not in st.session_state:
-    st.session_state.new_chat = False
-if "current_chat_label" not in st.session_state:
-    st.session_state.current_chat_label = None
+if "chat_list" not in st.session_state:
+    st.session_state.chat_list = [f.stem for f in CHAT_DIR.glob("*.json")]
 
-# Create directory to store chat sessions
-chat_dir = "chat_sessions"
-if not os.path.exists(chat_dir):
-    os.makedirs(chat_dir)
+# Helper functions for chat persistence
+def save_chat(chat_id, messages):
+    file_path = CHAT_DIR / f"{chat_id}.json"
+    with open(file_path, "w") as f:
+        json.dump({
+            "id": chat_id,
+            "timestamp": datetime.now().isoformat(),
+            "messages": messages
+        }, f, indent=2)
 
-# Function to save chat session
-def save_chat_session(label, messages):
-    chat_path = os.path.join(chat_dir, f"{label}.json")
-    with open(chat_path, "w") as f:
-        json.dump(messages, f)
-
-# Function to load chat session
-def load_chat_session(label):
-    chat_path = os.path.join(chat_dir, f"{label}.json")
-    if os.path.exists(chat_path):
-        with open(chat_path, "r") as f:
+def load_chat(chat_id):
+    file_path = CHAT_DIR / f"{chat_id}.json"
+    if file_path.exists():
+        with open(file_path, "r") as f:
             return json.load(f)
-    return []
+    return None
 
-# Function to delete a chat session
-def delete_chat_session(label):
-    chat_path = os.path.join(chat_dir, f"{label}.json")
-    if os.path.exists(chat_path):
-        os.remove(chat_path)
-
-# Function to extract important keywords from text
-def extract_keywords(text, num_keywords=5):
-    vectorizer = TfidfVectorizer(stop_words='english', max_features=num_keywords)
-    tfidf_matrix = vectorizer.fit_transform([text])
-    keywords = vectorizer.get_feature_names_out()
-    return "_".join(keywords)
-
-# Create a two-column layout (left panel: 30%, right panel: 70%)
-col1, col2 = st.columns([3, 7])
-
-# LEFT PANEL: Chat Sessions and New Chat button
-with col1:
-    st.header("Chat Sessions")
-    existing_chats = os.listdir(chat_dir)
-    
-    if existing_chats:
-        # Loop over all the chat files and display them as buttons
-        for chat_file in existing_chats:
-            chat_label = chat_file.replace(".json", "")
-            
-            # Creating a clickable button for each chat session
-            col1_button, col1_delete = st.columns([8, 2])
-            
-            with col1_button:
-                if st.button(f"{chat_label}", key=f"chat_{chat_label}"):
-                    st.session_state.messages = load_chat_session(chat_label)
-                    st.session_state.current_chat_label = chat_label
-                    st.session_state.new_chat = False
-            
-            with col1_delete:
-                # Using the delete icon as a clickable button
-                if st.button("\U0001F5D1", key=f"delete_{chat_label}", help="Delete this chat"):
-                    delete_chat_session(chat_label)
-                    st.session_state.messages = []
-                    st.session_state.current_chat_label = None
-                    st.session_state.new_chat = False
-                    st.rerun()  # Re-run to refresh the UI
-
-    # Option to start a new chat
-    if st.button("Start New Chat"):
-        st.session_state.new_chat = True
+def delete_chat(chat_id):
+    file_path = CHAT_DIR / f"{chat_id}.json"
+    if file_path.exists():
+        file_path.unlink()
+    st.session_state.chat_list = [f.stem for f in CHAT_DIR.glob("*.json")]
+    if st.session_state.current_chat == chat_id:
+        st.session_state.current_chat = None
         st.session_state.messages = []
-        st.session_state.current_chat_label = None
 
-# RIGHT PANEL: Chat Interface
-with col2:
-    st.title("LLM Capstone Chatbot")
-    
-    if st.session_state.new_chat:
+# Custom CSS for UI styling
+st.markdown(
+    """
+    <style>
+        /* Fixed Header */
+        .fixed-title {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            background-color: white;
+            padding: 15px;
+            text-align: center;
+            font-size: 24px;
+            font-weight: bold;
+            color: black;
+            z-index: 9999;
+            border-bottom: 2px solid #ddd;
+        }
+        /* Push chat content down to avoid overlap */
+        .main .block-container {
+            padding-top: 80px !important;
+        }
+        /* Sidebar chat history container */
+        .chat-container {
+            max-height: 350px;
+            overflow-y: auto;
+        }
+        .chat-entry {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            background-color: #f9f9f9;
+            padding: 8px 10px;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background 0.2s;
+            border: 1px solid #ddd;
+            font-size: 14px;
+        }
+        .chat-entry:hover {
+            background-color: #e6e6e6;
+        }
+        .delete-btn {
+            background: none;
+            border: none;
+            cursor: pointer;
+            color: red;
+            font-size: 16px;
+            padding: 0;
+        }
+    </style>
+    """,
+    unsafe_allow_html=True
+)
+
+# Fixed Title
+st.markdown('<div class="fixed-title">VisaWise</div>', unsafe_allow_html=True)
+
+# Sidebar for new chat and chat history
+with st.sidebar:
+    st.header("New Chat")
+    if st.button("+ New Chat", use_container_width=True):
+        st.session_state.current_chat = None
         st.session_state.messages = []
-        st.session_state.current_chat_label = None
-        st.session_state.new_chat = False
 
-    # Container for chat messages (above)
-    chat_container = st.container()
-    # Container for input bar (at the bottom)
-    input_container = st.container()
+    st.divider()
+    st.header("Chat History")
 
-    with chat_container:
-        for msg in st.session_state.messages:
-            with st.chat_message(msg["role"]):
-                st.write(msg["content"])
+    # Scrollable Chat History Container
+    st.markdown('<div class="chat-container">', unsafe_allow_html=True)
 
-    with input_container:
-        user_input = st.chat_input("Ask me anything about F-1 OPT/CPT...")
-        if user_input:
-            # Append user message if not already present
-            if not any(m["role"] == "user" and m["content"] == user_input for m in st.session_state.messages):
-                st.session_state.messages.append({"role": "user", "content": user_input})
-            with st.chat_message("user"):
-                st.write(user_input)
-            # Generate assistant response
-            response = st.session_state.rag_obj.generate_answer(user_input)
-            if not any(m["role"] == "assistant" and m["content"] == response for m in st.session_state.messages):
-                st.session_state.messages.append({"role": "assistant", "content": response})
-            with st.chat_message("assistant"):
-                st.write(response)
+    for chat_id in st.session_state.chat_list:
+        chat_data = load_chat(chat_id)
+        label = "Empty Chat"
+        if chat_data and chat_data["messages"]:
+            for msg in chat_data["messages"]:
+                if msg["role"] == "user":
+                    label = msg["content"][:20] + ("..." if len(msg["content"]) > 20 else "")
+                    break
 
-    # Set chat label if it's a new chat session
-    if st.session_state.messages and st.session_state.current_chat_label is None:
-        first_message = st.session_state.messages[0]["content"]
+        # Align chat label and delete button properly
+        col1, col2 = st.columns([5, 1])
+        with col1:
+            if st.button(label, key=chat_id, use_container_width=True):
+                loaded_chat = load_chat(chat_id)
+                if loaded_chat:
+                    st.session_state.current_chat = chat_id
+                    st.session_state.messages = loaded_chat["messages"]
 
-        # Extract keywords from the first message
-        label = extract_keywords(first_message)
+        with col2:
+            if st.button("🗑", key=f"del_{chat_id}", help="Delete this chat", use_container_width=True):
+                delete_chat(chat_id)
 
-        # Clean up the label to ensure valid file naming
-        st.session_state.current_chat_label = label
-        save_chat_session(label, st.session_state.messages)
-    elif st.session_state.current_chat_label:
-        save_chat_session(st.session_state.current_chat_label, st.session_state.messages)
+    st.markdown('</div>', unsafe_allow_html=True)  # Close chat container
+
+# Main chat area
+st.markdown('<div class="chat-container">', unsafe_allow_html=True)
+for msg in st.session_state.messages:
+    with st.chat_message(msg["role"]):
+        st.markdown(msg["content"])
+st.markdown('</div>', unsafe_allow_html=True)  # Close chat container
+
+# Handle new user input
+if prompt := st.chat_input("Ask about F-1 OPT/CPT..."):
+    # Append and display the user message
+    st.session_state.messages.append({"role": "user", "content": prompt})
+    with st.chat_message("user"):
+        st.markdown(prompt)
+    
+    # Generate the assistant's response
+    try:
+        response = st.session_state.rag.generate_answer(prompt)
+    except Exception as e:
+        st.error(f"Error generating response: {str(e)}")
+        response = "Sorry, there was an error generating a response."
+    st.session_state.messages.append({"role": "assistant", "content": response})
+    with st.chat_message("assistant"):
+        st.markdown(response)
+    
+    # If this is a new chat, assign a UUID and update the chat list
+    if not st.session_state.current_chat:
+        st.session_state.current_chat = str(uuid.uuid4())
+        st.session_state.chat_list.append(st.session_state.current_chat)
+    # Save the updated chat session
+    save_chat(st.session_state.current_chat, st.session_state.messages)
+
